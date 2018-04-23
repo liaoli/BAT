@@ -413,3 +413,9 @@ deviceno:PL43, device:22fa1113bc03, logintime:2018-04-22 12:47:04, hb:2018-04-22
 deviceno:PL6, device:22884858d1c6, logintime:2018-04-22 12:28:26, hb:2018-04-22 17:30:08, remoteAddr:183.240.42.35:14749, ver:1.0.11, ip:172.16.30.186
 
 deviceno:PL8, device:22fea1ebeaaa, logintime:2018-04-22 13:03:41, hb:2018-04-22 17:30:11, remoteAddr:183.240.42.35:28417, ver:1.0.11, ip:172.16.30.22
+
+deviceno:G261, device:32d4ca068cb6, logintime:2018-04-23 15:31:49, hb:2018-04-23 16:36:12, ver:1.1.9.8, ip:172.16.40.198
+
+deviceno:G271, device:222c9f405391, logintime:2018-04-23 16:36:16, hb:2018-04-23 16:36:16, ver:1.1.9.8, ip:172.16.40.131
+
+deviceno:G281, device:222600a582dc, logintime:2018-04-23 15:32:24, hb:2018-04-23 16:36:07, ver:1.2.0.6, ip:172.16.40.197

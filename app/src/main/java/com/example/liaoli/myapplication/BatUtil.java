@@ -18,9 +18,9 @@ import java.io.OutputStreamWriter;
 
 public class BatUtil {
 
-    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
-//    public static String desFile = "C:\\Users\\liaoli\\Desktop\\aaaa.txt";
-    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat" ;
+//    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
+    public static String desFile = "C:\\Users\\liaoli\\Desktop\\upgrade.txt";
+    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\upgrade" ;
 
     public static void main(String[] args){
 
@@ -78,7 +78,8 @@ public class BatUtil {
         }
         FileOutputStream fileOutputStream = new FileOutputStream(file);
         BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(fileOutputStream));
-        String data = "ECHO\nadb connect "+ ip +"\nadb reboot";
+       // String data = "ECHO\nadb connect "+ ip +"\nadb reboot"; //重启
+        String data = "ECHO\nadb connect "+ ip + "\nadb install -r com.xinhui.upgradeapp_1.0.11_20180423_173824-release.apk" +"\nadb shell am start -n com.xinhui.upgradeapp/com.xinhui.upgradeapp.MainActivity" +"\nadb disconnect";
         bufferedWriter.write(data);
         bufferedWriter.close();
 
