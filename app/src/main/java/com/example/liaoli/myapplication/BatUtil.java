@@ -18,9 +18,9 @@ import java.io.OutputStreamWriter;
 
 public class BatUtil {
 
-    public static String desFile = "C:\\Users\\liaoli\\Desktop\\bat_ip.txt";
+    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
 //    public static String desFile = "C:\\Users\\liaoli\\Desktop\\aaaa.txt";
-    private static String path ="C:\\Users\\liaoli\\Desktop\\bat" ;
+    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat" ;
 
     public static void main(String[] args){
 
