@@ -1,0 +1,1182 @@
+device list:
+deviceno:A101, device:32a77b0c7241, logintime:2018-04-26 14:07:50, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.198
+room_info:room_id:100000906, room_name:A101
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32a77b0c7241",
+StreamUrls: []string{"live_stream_32a77b0c7241", "live_stream_32a77b0c7241_2"},
+}
+
+deviceno:A111, device:32e0709404a6, logintime:2018-04-26 14:08:13, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.176
+room_info:room_id:100000907, room_name:A111
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32e0709404a6",
+StreamUrls: []string{"live_stream_32e0709404a6", "live_stream_32e0709404a6_2"},
+}
+
+deviceno:A121, device:326bccffb3b6, logintime:2018-04-26 14:08:17, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.133
+room_info:room_id:100000908, room_name:A121
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_326bccffb3b6",
+StreamUrls: []string{"live_stream_326bccffb3b6", "live_stream_326bccffb3b6_2"},
+}
+
+deviceno:A131, device:32ef5ef86a42, logintime:2018-04-26 14:08:13, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.114
+room_info:room_id:100000909, room_name:A131
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32ef5ef86a42",
+StreamUrls: []string{"live_stream_32ef5ef86a42", "live_stream_32ef5ef86a42_2"},
+}
+
+deviceno:A141, device:22fb4d557563, logintime:2018-04-26 14:08:31, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.100.206
+room_info:room_id:100000910, room_name:A141
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22fb4d557563",
+StreamUrls: []string{"live_stream_22fb4d557563", "live_stream_22fb4d557563_2"},
+}
+
+deviceno:A151, device:22f3ca978da7, logintime:2018-04-26 14:08:31, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.100.254
+room_info:room_id:100000911, room_name:A151
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22f3ca978da7",
+StreamUrls: []string{"live_stream_22f3ca978da7", "live_stream_22f3ca978da7_2"},
+}
+
+deviceno:A161, device:32279e14c1ea, logintime:2018-04-26 14:08:41, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.100.232
+room_info:room_id:100000912, room_name:A161
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32279e14c1ea",
+StreamUrls: []string{"live_stream_32279e14c1ea", "live_stream_32279e14c1ea_2"},
+}
+
+deviceno:A171, device:2265543d238f, logintime:2018-04-26 14:08:30, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.41
+room_info:room_id:100000913, room_name:A171
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2265543d238f",
+StreamUrls: []string{"live_stream_2265543d238f", "live_stream_2265543d238f_2"},
+}
+
+deviceno:A191, device:32f7b6957b4c, logintime:2018-04-26 14:08:39, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.159
+room_info:room_id:100000915, room_name:A191
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32f7b6957b4c",
+StreamUrls: []string{"live_stream_32f7b6957b4c", "live_stream_32f7b6957b4c_2"},
+}
+
+deviceno:A201, device:227b4d02df2c, logintime:2018-04-26 14:08:44, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.100.62
+room_info:room_id:100000916, room_name:A201
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_227b4d02df2c",
+StreamUrls: []string{"live_stream_227b4d02df2c", "live_stream_227b4d02df2c_2"},
+}
+
+deviceno:A21, device:220a02c3dccb, logintime:2018-04-26 14:09:10, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.30
+room_info:room_id:100000890, room_name:A21
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_220a02c3dccb",
+StreamUrls: []string{"live_stream_220a02c3dccb", "live_stream_220a02c3dccb_2"},
+}
+
+deviceno:A211, device:22d6574bd02a, logintime:2018-04-26 14:10:06, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.60.175
+room_info:room_id:100000917, room_name:A211
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22d6574bd02a",
+StreamUrls: []string{"live_stream_22d6574bd02a", "live_stream_22d6574bd02a_2"},
+}
+
+deviceno:A22, device:22e609871555, logintime:2018-04-26 14:09:18, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.100.166
+room_info:room_id:100000905, room_name:A22
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22e609871555",
+StreamUrls: []string{"live_stream_22e609871555", "live_stream_22e609871555_2"},
+}
+
+deviceno:A221, device:2240ccbfdc0a, logintime:2018-04-26 14:09:30, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.100.13
+room_info:room_id:100000918, room_name:A221
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2240ccbfdc0a",
+StreamUrls: []string{"live_stream_2240ccbfdc0a", "live_stream_2240ccbfdc0a_2"},
+}
+
+deviceno:A231, device:2214542a3ac6, logintime:2018-04-26 14:09:58, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.100.199
+room_info:room_id:100000919, room_name:A231
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2214542a3ac6",
+StreamUrls: []string{"live_stream_2214542a3ac6", "live_stream_2214542a3ac6_2"},
+}
+
+deviceno:A241, device:22e63f4739b3, logintime:2018-04-26 16:33:38, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.107
+room_info:room_id:100000920, room_name:A241
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22e63f4739b3",
+StreamUrls: []string{"live_stream_22e63f4739b3", "live_stream_22e63f4739b3_2"},
+}
+
+deviceno:A31, device:32efaad83597, logintime:2018-04-26 14:09:58, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.100.27
+room_info:room_id:100000891, room_name:A31
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32efaad83597",
+StreamUrls: []string{"live_stream_32efaad83597", "live_stream_32efaad83597_2"},
+}
+
+deviceno:A32, device:22a6531f5ad5, logintime:2018-04-26 16:32:08, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.127
+room_info:room_id:100000900, room_name:A32
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22a6531f5ad5",
+StreamUrls: []string{"live_stream_22a6531f5ad5", "live_stream_22a6531f5ad5_2"},
+}
+
+deviceno:A41, device:22e0bd65a275, logintime:2018-04-26 14:10:09, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.100.203
+room_info:room_id:100000892, room_name:A41
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22e0bd65a275",
+StreamUrls: []string{"live_stream_22e0bd65a275", "live_stream_22e0bd65a275_2"},
+}
+
+deviceno:A42, device:32c8cdfee4af, logintime:2018-04-26 16:32:30, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.100.86
+room_info:room_id:100000904, room_name:A42
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32c8cdfee4af",
+StreamUrls: []string{"live_stream_32c8cdfee4af", "live_stream_32c8cdfee4af_2"},
+}
+
+deviceno:A51, device:32a35a847f18, logintime:2018-04-26 16:32:17, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.149
+room_info:room_id:100000893, room_name:A51
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32a35a847f18",
+StreamUrls: []string{"live_stream_32a35a847f18", "live_stream_32a35a847f18_2"},
+}
+
+deviceno:A52, device:22d8caf3f147, logintime:2018-04-26 14:10:47, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.100.171
+room_info:room_id:100000903, room_name:A52
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22d8caf3f147",
+StreamUrls: []string{"live_stream_22d8caf3f147", "live_stream_22d8caf3f147_2"},
+}
+
+deviceno:A61, device:22cf4422a49a, logintime:2018-04-26 14:10:21, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.99
+room_info:room_id:100000894, room_name:A61
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22cf4422a49a",
+StreamUrls: []string{"live_stream_22cf4422a49a", "live_stream_22cf4422a49a_2"},
+}
+
+deviceno:A62, device:32967fdd5d01, logintime:2018-04-26 14:10:20, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.9
+room_info:room_id:100000902, room_name:A62
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32967fdd5d01",
+StreamUrls: []string{"live_stream_32967fdd5d01", "live_stream_32967fdd5d01_2"},
+}
+
+deviceno:A71, device:2241abecb6f9, logintime:2018-04-26 16:40:06, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.100.170
+room_info:room_id:100000895, room_name:A71
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2241abecb6f9",
+StreamUrls: []string{"live_stream_2241abecb6f9", "live_stream_2241abecb6f9_2"},
+}
+
+deviceno:A72, device:32d40dfa3979, logintime:2018-04-26 14:10:27, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.100.104
+room_info:room_id:100000901, room_name:A72
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32d40dfa3979",
+StreamUrls: []string{"live_stream_32d40dfa3979", "live_stream_32d40dfa3979_2"},
+}
+
+deviceno:A81, device:32f1241eae53, logintime:2018-04-26 14:10:32, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.100.201
+room_info:room_id:100000921, room_name:A81
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32f1241eae53",
+StreamUrls: []string{"live_stream_32f1241eae53", "live_stream_32f1241eae53_2"},
+}
+
+deviceno:A91, device:3276229a1bee, logintime:2018-04-26 14:10:54, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.100.179
+room_info:room_id:100000922, room_name:A91
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3276229a1bee",
+StreamUrls: []string{"live_stream_3276229a1bee", "live_stream_3276229a1bee_2"},
+}
+
+deviceno:AQ1, device:22edfc01fd4e, logintime:2018-04-26 17:03:14, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.100.192
+room_info:room_id:100000782, room_name:AQ1
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22edfc01fd4e",
+StreamUrls: []string{"live_stream_22edfc01fd4e", "live_stream_22edfc01fd4e_2"},
+}
+
+deviceno:AQ10, device:22a2e849193b, logintime:2018-04-26 16:10:55, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.60.203
+room_info:room_id:100000790, room_name:AQ10
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22a2e849193b",
+StreamUrls: []string{"live_stream_22a2e849193b", "live_stream_22a2e849193b_2"},
+}
+
+deviceno:AQ11, device:329b25f94683, logintime:2018-04-26 15:57:38, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.100.227
+room_info:room_id:100000791, room_name:AQ11
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_329b25f94683",
+StreamUrls: []string{"live_stream_329b25f94683", "live_stream_329b25f94683_2"},
+}
+
+deviceno:AQ12, device:2230b9a53ab3, logintime:2018-04-26 15:57:35, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.38
+room_info:room_id:100000792, room_name:AQ12
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2230b9a53ab3",
+StreamUrls: []string{"live_stream_2230b9a53ab3", "live_stream_2230b9a53ab3_2"},
+}
+
+deviceno:AQ13, device:22bd6ebb14b4, logintime:2018-04-26 15:57:31, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.60.235
+room_info:room_id:100000793, room_name:AQ13
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22bd6ebb14b4",
+StreamUrls: []string{"live_stream_22bd6ebb14b4", "live_stream_22bd6ebb14b4_2"},
+}
+
+deviceno:AQ14, device:3261904b515d, logintime:2018-04-26 15:58:00, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.100.128
+room_info:room_id:100000794, room_name:AQ14
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3261904b515d",
+StreamUrls: []string{"live_stream_3261904b515d", "live_stream_3261904b515d_2"},
+}
+
+deviceno:AQ15, device:229edff822a1, logintime:2018-04-26 15:57:58, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.100.183
+room_info:room_id:100000795, room_name:AQ15
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_229edff822a1",
+StreamUrls: []string{"live_stream_229edff822a1", "live_stream_229edff822a1_2"},
+}
+
+deviceno:AQ16, device:320c4288acb4, logintime:2018-04-26 15:58:09, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.60.32
+room_info:room_id:100000796, room_name:AQ16
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_320c4288acb4",
+StreamUrls: []string{"live_stream_320c4288acb4", "live_stream_320c4288acb4_2"},
+}
+
+deviceno:AQ17, device:224069d6907f, logintime:2018-04-26 17:05:59, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.100.208
+room_info:room_id:100000797, room_name:AQ17
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_224069d6907f",
+StreamUrls: []string{"live_stream_224069d6907f", "live_stream_224069d6907f_2"},
+}
+
+deviceno:AQ18, device:3213decf4518, logintime:2018-04-26 16:03:55, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.147
+room_info:room_id:100000798, room_name:AQ18
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3213decf4518",
+StreamUrls: []string{"live_stream_3213decf4518", "live_stream_3213decf4518_2"},
+}
+
+deviceno:AQ19, device:2287e0c58eb6, logintime:2018-04-26 16:00:02, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.60.130
+room_info:room_id:100000799, room_name:AQ19
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2287e0c58eb6",
+StreamUrls: []string{"live_stream_2287e0c58eb6", "live_stream_2287e0c58eb6_2"},
+}
+
+deviceno:AQ2, device:2211ad347e3c, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:14, ver:1.2.0.11, ip:172.16.100.123
+room_info:room_id:100000783, room_name:AQ2
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2211ad347e3c",
+StreamUrls: []string{"live_stream_2211ad347e3c", "live_stream_2211ad347e3c_2"},
+}
+
+deviceno:AQ20, device:32d643d042f0, logintime:2018-04-26 16:00:10, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.60.105
+room_info:room_id:100000800, room_name:AQ20
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32d643d042f0",
+StreamUrls: []string{"live_stream_32d643d042f0", "live_stream_32d643d042f0_2"},
+}
+
+deviceno:AQ21, device:224dd48468db, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:12, ver:1.2.0.11, ip:172.16.60.40
+room_info:room_id:100000801, room_name:AQ21
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_224dd48468db",
+StreamUrls: []string{"live_stream_224dd48468db", "live_stream_224dd48468db_2"},
+}
+
+deviceno:AQ22, device:3210d1ebfc4e, logintime:2018-04-26 16:58:16, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.60.194
+room_info:room_id:100000802, room_name:AQ22
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3210d1ebfc4e",
+StreamUrls: []string{"live_stream_3210d1ebfc4e", "live_stream_3210d1ebfc4e_2"},
+}
+
+deviceno:AQ23, device:222d98723ef6, logintime:2018-04-26 15:51:02, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.60.172
+room_info:room_id:100000803, room_name:AQ23
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222d98723ef6",
+StreamUrls: []string{"live_stream_222d98723ef6", "live_stream_222d98723ef6_2"},
+}
+
+deviceno:AQ24, device:224ae1c6cbef, logintime:2018-04-26 15:51:15, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.49
+room_info:room_id:100000804, room_name:AQ24
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_224ae1c6cbef",
+StreamUrls: []string{"live_stream_224ae1c6cbef", "live_stream_224ae1c6cbef_2"},
+}
+
+deviceno:AQ25, device:2208afe4b823, logintime:2018-04-26 17:06:13, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.60.210
+room_info:room_id:100000805, room_name:AQ25
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2208afe4b823",
+StreamUrls: []string{"live_stream_2208afe4b823", "live_stream_2208afe4b823_2"},
+}
+
+deviceno:AQ26, device:32bb3f2fbc44, logintime:2018-04-26 15:51:22, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.60.191
+room_info:room_id:100000806, room_name:AQ26
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32bb3f2fbc44",
+StreamUrls: []string{"live_stream_32bb3f2fbc44", "live_stream_32bb3f2fbc44_2"},
+}
+
+deviceno:AQ27, device:22682fee2a26, logintime:2018-04-26 15:51:33, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.60.76
+room_info:room_id:100000807, room_name:AQ27
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22682fee2a26",
+StreamUrls: []string{"live_stream_22682fee2a26", "live_stream_22682fee2a26_2"},
+}
+
+deviceno:AQ28, device:327db968f26f, logintime:2018-04-26 15:51:39, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.60.55
+room_info:room_id:100000808, room_name:AQ28
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_327db968f26f",
+StreamUrls: []string{"live_stream_327db968f26f", "live_stream_327db968f26f_2"},
+}
+
+deviceno:AQ29, device:226def4db5f5, logintime:2018-04-26 15:51:43, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.60.78
+room_info:room_id:100000831, room_name:AQ29
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_226def4db5f5",
+StreamUrls: []string{"live_stream_226def4db5f5", "live_stream_226def4db5f5_2"},
+}
+
+deviceno:AQ3, device:32ae1b17b6ff, logintime:2018-04-26 15:54:19, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.100.241
+room_info:room_id:100000784, room_name:AQ3
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32ae1b17b6ff",
+StreamUrls: []string{"live_stream_32ae1b17b6ff", "live_stream_32ae1b17b6ff_2"},
+}
+
+deviceno:AQ30, device:22ffeb33b6fe, logintime:2018-04-26 15:54:24, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.48
+room_info:room_id:100000809, room_name:AQ30
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22ffeb33b6fe",
+StreamUrls: []string{"live_stream_22ffeb33b6fe", "live_stream_22ffeb33b6fe_2"},
+}
+
+deviceno:AQ31, device:229343708fbf, logintime:2018-04-26 15:54:21, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.60.38
+room_info:room_id:100000832, room_name:AQ31
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_229343708fbf",
+StreamUrls: []string{"live_stream_229343708fbf", "live_stream_229343708fbf_2"},
+}
+
+deviceno:AQ32, device:2229a85cec4e, logintime:2018-04-26 15:54:22, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.60.188
+room_info:room_id:100000810, room_name:AQ32
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2229a85cec4e",
+StreamUrls: []string{"live_stream_2229a85cec4e", "live_stream_2229a85cec4e_2"},
+}
+
+deviceno:AQ33, device:32154bfc0d18, logintime:2018-04-26 15:48:54, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.39
+room_info:room_id:100000811, room_name:AQ33
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32154bfc0d18",
+StreamUrls: []string{"live_stream_32154bfc0d18", "live_stream_32154bfc0d18_2"},
+}
+
+deviceno:AQ34, device:22b31f5a6555, logintime:2018-04-26 15:48:55, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.60.64
+room_info:room_id:100000812, room_name:AQ34
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22b31f5a6555",
+StreamUrls: []string{"live_stream_22b31f5a6555", "live_stream_22b31f5a6555_2"},
+}
+
+deviceno:AQ35, device:324780a5d72d, logintime:2018-04-26 15:49:42, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.60.231
+room_info:room_id:100000813, room_name:AQ35
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_324780a5d72d",
+StreamUrls: []string{"live_stream_324780a5d72d", "live_stream_324780a5d72d_2"},
+}
+
+deviceno:AQ36, device:2249ddeefd11, logintime:2018-04-26 17:05:57, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.146
+room_info:room_id:100000814, room_name:AQ36
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2249ddeefd11",
+StreamUrls: []string{"live_stream_2249ddeefd11", "live_stream_2249ddeefd11_2"},
+}
+
+deviceno:AQ37, device:22b3b55d90d6, logintime:2018-04-26 15:48:47, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.60.12
+room_info:room_id:100000815, room_name:AQ37
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22b3b55d90d6",
+StreamUrls: []string{"live_stream_22b3b55d90d6", "live_stream_22b3b55d90d6_2"},
+}
+
+deviceno:AQ38, device:3282fb5a43d2, logintime:2018-04-26 17:00:16, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.60.24
+room_info:room_id:100000816, room_name:AQ38
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3282fb5a43d2",
+StreamUrls: []string{"live_stream_3282fb5a43d2", "live_stream_3282fb5a43d2_2"},
+}
+
+deviceno:AQ39, device:2276f5875b01, logintime:2018-04-26 15:48:15, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.177
+room_info:room_id:100000817, room_name:AQ39
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2276f5875b01",
+StreamUrls: []string{"live_stream_2276f5875b01", "live_stream_2276f5875b01_2"},
+}
+
+deviceno:AQ4, device:22eaff58a1f2, logintime:2018-04-26 15:48:07, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.100.98
+room_info:room_id:100000786, room_name:AQ4
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22eaff58a1f2",
+StreamUrls: []string{"live_stream_22eaff58a1f2", "live_stream_22eaff58a1f2_2"},
+}
+
+deviceno:AQ40, device:3232582ab881, logintime:2018-04-26 15:47:11, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.60.190
+room_info:room_id:100000818, room_name:AQ40
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3232582ab881",
+StreamUrls: []string{"live_stream_3232582ab881", "live_stream_3232582ab881_2"},
+}
+
+deviceno:AQ41, device:329fb9a9caae, logintime:2018-04-26 15:47:14, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.159
+room_info:room_id:100000819, room_name:AQ41
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_329fb9a9caae",
+StreamUrls: []string{"live_stream_329fb9a9caae", "live_stream_329fb9a9caae_2"},
+}
+
+deviceno:AQ42, device:22550d9fcba9, logintime:2018-04-26 15:47:17, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.60.47
+room_info:room_id:100000820, room_name:AQ42
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22550d9fcba9",
+StreamUrls: []string{"live_stream_22550d9fcba9", "live_stream_22550d9fcba9_2"},
+}
+
+deviceno:AQ43, device:229d59e7b6a2, logintime:2018-04-26 15:47:53, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.60.71
+room_info:room_id:100000821, room_name:AQ43
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_229d59e7b6a2",
+StreamUrls: []string{"live_stream_229d59e7b6a2", "live_stream_229d59e7b6a2_2"},
+}
+
+deviceno:AQ44, device:3252bccdf8a7, logintime:2018-04-26 15:46:43, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.70.197
+room_info:room_id:100000823, room_name:AQ44
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3252bccdf8a7",
+StreamUrls: []string{"live_stream_3252bccdf8a7", "live_stream_3252bccdf8a7_2"},
+}
+
+deviceno:AQ45, device:22a07abe2520, logintime:2018-04-26 15:46:49, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.60.94
+room_info:room_id:100000824, room_name:AQ45
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22a07abe2520",
+StreamUrls: []string{"live_stream_22a07abe2520", "live_stream_22a07abe2520_2"},
+}
+
+deviceno:AQ46, device:32b82f32e026, logintime:2018-04-26 15:47:04, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.250
+room_info:room_id:100000825, room_name:AQ46
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32b82f32e026",
+StreamUrls: []string{"live_stream_32b82f32e026", "live_stream_32b82f32e026_2"},
+}
+
+deviceno:AQ47, device:32b9e1821ad2, logintime:2018-04-26 16:03:46, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.60.93
+room_info:room_id:100000833, room_name:AQ47
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32b9e1821ad2",
+StreamUrls: []string{"live_stream_32b9e1821ad2", "live_stream_32b9e1821ad2_2"},
+}
+
+deviceno:AQ49, device:22a7846c901d, logintime:2018-04-26 17:06:17, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.60.156
+room_info:room_id:100000828, room_name:AQ49
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22a7846c901d",
+StreamUrls: []string{"live_stream_22a7846c901d", "live_stream_22a7846c901d_2"},
+}
+
+deviceno:AQ5, device:220a59c4e3ff, logintime:2018-04-26 15:45:24, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.87
+room_info:room_id:100000787, room_name:AQ5
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_220a59c4e3ff",
+StreamUrls: []string{"live_stream_220a59c4e3ff", "live_stream_220a59c4e3ff_2"},
+}
+
+deviceno:AQ50, device:2210b8102395, logintime:2018-04-26 15:46:05, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.60.198
+room_info:room_id:100000926, room_name:AQ50
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2210b8102395",
+StreamUrls: []string{"live_stream_2210b8102395", "live_stream_2210b8102395_2"},
+}
+
+deviceno:AQ6, device:329ccd456538, logintime:2018-04-26 15:45:26, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.100.77
+room_info:room_id:100000788, room_name:AQ6
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_329ccd456538",
+StreamUrls: []string{"live_stream_329ccd456538", "live_stream_329ccd456538_2"},
+}
+
+deviceno:AQ7, device:32a751df3cbe, logintime:2018-04-26 15:45:23, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.150
+room_info:room_id:100000789, room_name:AQ7
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32a751df3cbe",
+StreamUrls: []string{"live_stream_32a751df3cbe", "live_stream_32a751df3cbe_2"},
+}
+
+deviceno:AQ8, device:22499c34f33d, logintime:2018-04-26 15:45:08, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.100.115
+room_info:room_id:100000829, room_name:AQ8
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22499c34f33d",
+StreamUrls: []string{"live_stream_22499c34f33d", "live_stream_22499c34f33d_2"},
+}
+
+deviceno:AQ9, device:32cc991e5556, logintime:2018-04-26 16:06:24, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.100.54
+room_info:room_id:100000830, room_name:AQ9
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32cc991e5556",
+StreamUrls: []string{"live_stream_32cc991e5556", "live_stream_32cc991e5556_2"},
+}
+
+deviceno:B171, device:32fc1d30f679, logintime:2018-04-26 15:44:49, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.60.35
+room_info:room_id:100000935, room_name:B171
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32fc1d30f679",
+StreamUrls: []string{"live_stream_32fc1d30f679", "live_stream_32fc1d30f679_2"},
+}
+
+deviceno:C101, device:22303a689980, logintime:2018-04-26 14:32:36, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.80.242
+room_info:room_id:100000501, room_name:C101
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22303a689980",
+StreamUrls: []string{"live_stream_22303a689980", "live_stream_22303a689980_2"},
+}
+
+deviceno:C102, device:321ae45818dd, logintime:2018-04-26 14:32:38, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.80.163
+room_info:room_id:100000519, room_name:C102
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_321ae45818dd",
+StreamUrls: []string{"live_stream_321ae45818dd", "live_stream_321ae45818dd_2"},
+}
+
+deviceno:C111, device:2246d25ec687, logintime:2018-04-26 16:52:09, hb:2018-04-26 17:06:20, ver:1.2.0.12, ip:172.16.80.110
+room_info:room_id:100000502, room_name:C111
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2246d25ec687",
+StreamUrls: []string{"live_stream_2246d25ec687", "live_stream_2246d25ec687_2"},
+}
+
+deviceno:C112, device:32bb8fd7be96, logintime:2018-04-26 14:32:43, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.80.150
+room_info:room_id:100000520, room_name:C112
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32bb8fd7be96",
+StreamUrls: []string{"live_stream_32bb8fd7be96", "live_stream_32bb8fd7be96_2"},
+}
+
+deviceno:C121, device:32b3707c6801, logintime:2018-04-26 16:52:13, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.80.206
+room_info:room_id:100000503, room_name:C121
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32b3707c6801",
+StreamUrls: []string{"live_stream_32b3707c6801", "live_stream_32b3707c6801_2"},
+}
+
+deviceno:C122, device:321faf5d7766, logintime:2018-04-26 14:32:53, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.80.219
+room_info:room_id:100000521, room_name:C122
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_321faf5d7766",
+StreamUrls: []string{"live_stream_321faf5d7766", "live_stream_321faf5d7766_2"},
+}
+
+deviceno:C131, device:324cea5c600b, logintime:2018-04-26 14:32:59, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.80.235
+room_info:room_id:100000504, room_name:C131
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_324cea5c600b",
+StreamUrls: []string{"live_stream_324cea5c600b", "live_stream_324cea5c600b_2"},
+}
+
+deviceno:C132, device:22dced594932, logintime:2018-04-26 14:33:07, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.80.210
+room_info:room_id:100000551, room_name:C132
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22dced594932",
+StreamUrls: []string{"live_stream_22dced594932", "live_stream_22dced594932_2"},
+}
+
+deviceno:C141, device:3277ae27ccc8, logintime:2018-04-26 14:33:55, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.70.120
+room_info:room_id:100000505, room_name:C141
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3277ae27ccc8",
+StreamUrls: []string{"live_stream_3277ae27ccc8", "live_stream_3277ae27ccc8_2"},
+}
+
+deviceno:C142, device:32816e2a2a57, logintime:2018-04-26 14:33:59, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.70.227
+room_info:room_id:100000552, room_name:C142
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32816e2a2a57",
+StreamUrls: []string{"live_stream_32816e2a2a57", "live_stream_32816e2a2a57_2"},
+}
+
+deviceno:C151, device:326ca11704af, logintime:2018-04-26 14:34:01, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.70.82
+room_info:room_id:100000506, room_name:C151
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_326ca11704af",
+StreamUrls: []string{"live_stream_326ca11704af", "live_stream_326ca11704af_2"},
+}
+
+deviceno:C152, device:223fac1c51be, logintime:2018-04-26 14:34:04, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.32
+room_info:room_id:100000553, room_name:C152
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_223fac1c51be",
+StreamUrls: []string{"live_stream_223fac1c51be", "live_stream_223fac1c51be_2"},
+}
+
+deviceno:C161, device:32b67e40017c, logintime:2018-04-26 14:34:03, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.70.204
+room_info:room_id:100000507, room_name:C161
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32b67e40017c",
+StreamUrls: []string{"live_stream_32b67e40017c", "live_stream_32b67e40017c_2"},
+}
+
+deviceno:C162, device:22800d50b089, logintime:2018-04-26 14:34:19, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.70.140
+room_info:room_id:100000554, room_name:C162
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22800d50b089",
+StreamUrls: []string{"live_stream_22800d50b089", "live_stream_22800d50b089_2"},
+}
+
+deviceno:C171, device:22313cfc7397, logintime:2018-04-26 14:34:29, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.70.218
+room_info:room_id:100000508, room_name:C171
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22313cfc7397",
+StreamUrls: []string{"live_stream_22313cfc7397", "live_stream_22313cfc7397_2"},
+}
+
+deviceno:C172, device:22be5337435e, logintime:2018-04-26 14:34:17, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.156
+room_info:room_id:100000855, room_name:C172
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22be5337435e",
+StreamUrls: []string{"live_stream_22be5337435e", "live_stream_22be5337435e_2"},
+}
+
+deviceno:C181, device:22ca264e6a9b, logintime:2018-04-26 16:34:12, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.158
+room_info:room_id:100000509, room_name:C181
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22ca264e6a9b",
+StreamUrls: []string{"live_stream_22ca264e6a9b", "live_stream_22ca264e6a9b_2"},
+}
+
+deviceno:C182, device:229cba85c01b, logintime:2018-04-26 16:34:02, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.41
+room_info:room_id:100000555, room_name:C182
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_229cba85c01b",
+StreamUrls: []string{"live_stream_229cba85c01b", "live_stream_229cba85c01b_2"},
+}
+
+deviceno:C191, device:324f722f21ef, logintime:2018-04-26 14:41:01, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.70.52
+room_info:room_id:100000510, room_name:C191
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_324f722f21ef",
+StreamUrls: []string{"live_stream_324f722f21ef", "live_stream_324f722f21ef_2"},
+}
+
+deviceno:C192, device:22f4828e897e, logintime:2018-04-26 14:35:30, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.70.178
+room_info:room_id:100000556, room_name:C192
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22f4828e897e",
+StreamUrls: []string{"live_stream_22f4828e897e", "live_stream_22f4828e897e_2"},
+}
+
+deviceno:C201, device:22600e50dd14, logintime:2018-04-26 14:35:47, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.212
+room_info:room_id:100000534, room_name:C201
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22600e50dd14",
+StreamUrls: []string{"live_stream_22600e50dd14", "live_stream_22600e50dd14_2"},
+}
+
+deviceno:C202, device:32121cff9c29, logintime:2018-04-26 14:35:46, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.70.97
+room_info:room_id:100000550, room_name:C202
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32121cff9c29",
+StreamUrls: []string{"live_stream_32121cff9c29", "live_stream_32121cff9c29_2"},
+}
+
+deviceno:C21, device:22bf096ef2e1, logintime:2018-04-26 14:35:59, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.70.11
+room_info:room_id:100000451, room_name:C21
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22bf096ef2e1",
+StreamUrls: []string{"live_stream_22bf096ef2e1", "live_stream_22bf096ef2e1_2"},
+}
+
+deviceno:C211, device:22f77a8ec721, logintime:2018-04-26 14:35:59, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.70.162
+room_info:room_id:100000535, room_name:C211
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22f77a8ec721",
+StreamUrls: []string{"live_stream_22f77a8ec721", "live_stream_22f77a8ec721_2"},
+}
+
+deviceno:C212, device:22989c6e5eba, logintime:2018-04-26 14:36:02, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.70.171
+room_info:room_id:100000561, room_name:C212
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22989c6e5eba",
+StreamUrls: []string{"live_stream_22989c6e5eba", "live_stream_22989c6e5eba_2"},
+}
+
+deviceno:C22, device:22af6a4e0560, logintime:2018-04-26 14:36:47, hb:2018-04-26 17:06:19, ver:1.2.0.11, ip:172.16.70.33
+room_info:room_id:100000453, room_name:C22
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22af6a4e0560",
+StreamUrls: []string{"live_stream_22af6a4e0560", "live_stream_22af6a4e0560_2"},
+}
+
+deviceno:C221, device:22c2fe7c6c07, logintime:2018-04-26 14:37:13, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.70.191
+room_info:room_id:100000527, room_name:C221
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22c2fe7c6c07",
+StreamUrls: []string{"live_stream_22c2fe7c6c07", "live_stream_22c2fe7c6c07_2"},
+}
+
+deviceno:C222, device:22832cb63191, logintime:2018-04-26 14:37:11, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.70.219
+room_info:room_id:100000562, room_name:C222
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22832cb63191",
+StreamUrls: []string{"live_stream_22832cb63191", "live_stream_22832cb63191_2"},
+}
+
+deviceno:C231, device:22800f504597, logintime:2018-04-26 14:37:19, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.70.184
+room_info:room_id:100000536, room_name:C231
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22800f504597",
+StreamUrls: []string{"live_stream_22800f504597", "live_stream_22800f504597_2"},
+}
+
+deviceno:C232, device:22bd7524f6bb, logintime:2018-04-26 14:37:34, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.70.126
+room_info:room_id:100000856, room_name:C232
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22bd7524f6bb",
+StreamUrls: []string{"live_stream_22bd7524f6bb", "live_stream_22bd7524f6bb_2"},
+}
+
+deviceno:C241, device:22686a51b0a7, logintime:2018-04-26 14:37:40, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.70.50
+room_info:room_id:100000533, room_name:C241
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22686a51b0a7",
+StreamUrls: []string{"live_stream_22686a51b0a7", "live_stream_22686a51b0a7_2"},
+}
+
+deviceno:C242, device:329f5ffdfe57, logintime:2018-04-26 14:38:58, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.221
+room_info:room_id:100000522, room_name:C242
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_329f5ffdfe57",
+StreamUrls: []string{"live_stream_329f5ffdfe57", "live_stream_329f5ffdfe57_2"},
+}
+
+deviceno:C251, device:224abb8c8b25, logintime:2018-04-26 14:39:00, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.70.153
+room_info:room_id:100000532, room_name:C251
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_224abb8c8b25",
+StreamUrls: []string{"live_stream_224abb8c8b25", "live_stream_224abb8c8b25_2"},
+}
+
+deviceno:C252, device:220894375a3e, logintime:2018-04-26 16:24:51, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.70.211
+room_info:room_id:100000523, room_name:C252
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_220894375a3e",
+StreamUrls: []string{"live_stream_220894375a3e", "live_stream_220894375a3e_2"},
+}
+
+deviceno:C261, device:222f9147222a, logintime:2018-04-26 14:33:26, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.70.98
+room_info:room_id:100000854, room_name:C261
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222f9147222a",
+StreamUrls: []string{"live_stream_222f9147222a", "live_stream_222f9147222a_2"},
+}
+
+deviceno:C262, device:222c0565b826, logintime:2018-04-26 14:40:30, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.70.65
+room_info:room_id:100000524, room_name:C262
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222c0565b826",
+StreamUrls: []string{"live_stream_222c0565b826", "live_stream_222c0565b826_2"},
+}
+
+deviceno:C271, device:32744eefd7f8, logintime:2018-04-26 14:40:15, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.70.185
+room_info:room_id:100000852, room_name:C271
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32744eefd7f8",
+StreamUrls: []string{"live_stream_32744eefd7f8", "live_stream_32744eefd7f8_2"},
+}
+
+deviceno:C272, device:32dbab8fc978, logintime:2018-04-26 14:40:17, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.70.152
+room_info:room_id:100000525, room_name:C272
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32dbab8fc978",
+StreamUrls: []string{"live_stream_32dbab8fc978", "live_stream_32dbab8fc978_2"},
+}
+
+deviceno:C281, device:323021d89b39, logintime:2018-04-26 14:40:19, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.70.2
+room_info:room_id:100000853, room_name:C281
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_323021d89b39",
+StreamUrls: []string{"live_stream_323021d89b39", "live_stream_323021d89b39_2"},
+}
+
+deviceno:C282, device:325bc0df90f7, logintime:2018-04-26 14:40:59, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.70.210
+room_info:room_id:100000526, room_name:C282
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_325bc0df90f7",
+StreamUrls: []string{"live_stream_325bc0df90f7", "live_stream_325bc0df90f7_2"},
+}
+
+deviceno:C31, device:227fbfd8d266, logintime:2018-04-26 14:42:12, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.80.88
+room_info:room_id:100000450, room_name:C31
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_227fbfd8d266",
+StreamUrls: []string{"live_stream_227fbfd8d266", "live_stream_227fbfd8d266_2"},
+}
+
+deviceno:C32, device:225f78932687, logintime:2018-04-26 14:42:03, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.80.155
+room_info:room_id:100000452, room_name:C32
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_225f78932687",
+StreamUrls: []string{"live_stream_225f78932687", "live_stream_225f78932687_2"},
+}
+
+deviceno:C41, device:321a81c90340, logintime:2018-04-26 14:42:13, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.80.49
+room_info:room_id:100000449, room_name:C41
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_321a81c90340",
+StreamUrls: []string{"live_stream_321a81c90340", "live_stream_321a81c90340_2"},
+}
+
+deviceno:C42, device:327c605598b0, logintime:2018-04-26 14:42:22, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.80.35
+room_info:room_id:100000844, room_name:C42
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_327c605598b0",
+StreamUrls: []string{"live_stream_327c605598b0", "live_stream_327c605598b0_2"},
+}
+
+deviceno:C51, device:3296c92bf925, logintime:2018-04-26 14:42:23, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.80.16
+room_info:room_id:100000845, room_name:C51
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3296c92bf925",
+StreamUrls: []string{"live_stream_3296c92bf925", "live_stream_3296c92bf925_2"},
+}
+
+deviceno:C52, device:220fd0b76524, logintime:2018-04-26 14:42:43, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.80.7
+room_info:room_id:100000846, room_name:C52
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_220fd0b76524",
+StreamUrls: []string{"live_stream_220fd0b76524", "live_stream_220fd0b76524_2"},
+}
+
+deviceno:C61, device:32314b456e81, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:19, ver:1.2.0.11, ip:172.16.80.178
+room_info:room_id:100000847, room_name:C61
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32314b456e81",
+StreamUrls: []string{"live_stream_32314b456e81", "live_stream_32314b456e81_2"},
+}
+
+deviceno:C62, device:32a9189033de, logintime:2018-04-26 16:34:33, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.80.75
+room_info:room_id:100000848, room_name:C62
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32a9189033de",
+StreamUrls: []string{"live_stream_32a9189033de", "live_stream_32a9189033de_2"},
+}
+
+deviceno:C71, device:32364fc3f66f, logintime:2018-04-26 14:44:20, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.80.195
+room_info:room_id:100000849, room_name:C71
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32364fc3f66f",
+StreamUrls: []string{"live_stream_32364fc3f66f", "live_stream_32364fc3f66f_2"},
+}
+
+deviceno:C72, device:229da0782bdb, logintime:2018-04-26 14:44:08, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.80.211
+room_info:room_id:100000850, room_name:C72
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_229da0782bdb",
+StreamUrls: []string{"live_stream_229da0782bdb", "live_stream_229da0782bdb_2"},
+}
+
+deviceno:C81, device:32c857458a9d, logintime:2018-04-26 14:44:11, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.80.22
+room_info:room_id:100000499, room_name:C81
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32c857458a9d",
+StreamUrls: []string{"live_stream_32c857458a9d", "live_stream_32c857458a9d_2"},
+}
+
+deviceno:C82, device:221e50b4b987, logintime:2018-04-26 14:43:55, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.80.168
+room_info:room_id:100000851, room_name:C82
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_221e50b4b987",
+StreamUrls: []string{"live_stream_221e50b4b987", "live_stream_221e50b4b987_2"},
+}
+
+deviceno:C91, device:32ea5c0b9a6d, logintime:2018-04-26 14:43:51, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.80.237
+room_info:room_id:100000500, room_name:C91
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32ea5c0b9a6d",
+StreamUrls: []string{"live_stream_32ea5c0b9a6d", "live_stream_32ea5c0b9a6d_2"},
+}
+
+deviceno:D101, device:221b00782f73, logintime:2018-04-26 14:26:10, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.30.25
+room_info:room_id:100000860, room_name:D101
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_221b00782f73",
+StreamUrls: []string{"live_stream_221b00782f73", "live_stream_221b00782f73_2"},
+}
+
+deviceno:D102, device:22ae428a71c6, logintime:2018-04-26 14:25:19, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.30.11
+room_info:room_id:100000867, room_name:D102
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22ae428a71c6",
+StreamUrls: []string{"live_stream_22ae428a71c6", "live_stream_22ae428a71c6_2"},
+}
+
+deviceno:D111, device:224fff9ef608, logintime:2018-04-26 14:25:25, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.30.192
+room_info:room_id:100000861, room_name:D111
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_224fff9ef608",
+StreamUrls: []string{"live_stream_224fff9ef608", "live_stream_224fff9ef608_2"},
+}
+
+deviceno:D112, device:22884858d1c6, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:17, ver:1.2.0.11, ip:172.16.30.186
+room_info:room_id:100000932, room_name:D112
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22884858d1c6",
+StreamUrls: []string{"live_stream_22884858d1c6", "live_stream_22884858d1c6_2"},
+}
+
+deviceno:D121, device:32f1f27eb08a, logintime:2018-04-26 14:25:27, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.30.160
+room_info:room_id:100000862, room_name:D121
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32f1f27eb08a",
+StreamUrls: []string{"live_stream_32f1f27eb08a", "live_stream_32f1f27eb08a_2"},
+}
+
+deviceno:D122, device:2289b1c3d4d9, logintime:2018-04-26 14:25:57, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.30.37
+room_info:room_id:100000577, room_name:D122
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2289b1c3d4d9",
+StreamUrls: []string{"live_stream_2289b1c3d4d9", "live_stream_2289b1c3d4d9_2"},
+}
+
+deviceno:D131, device:2288e1078381, logintime:2018-04-26 14:25:46, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.30.108
+room_info:room_id:100000863, room_name:D131
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2288e1078381",
+StreamUrls: []string{"live_stream_2288e1078381", "live_stream_2288e1078381_2"},
+}
+
+deviceno:D132, device:22fea1ebeaaa, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:11, ver:1.2.0.11, ip:172.16.30.22
+room_info:room_id:100000933, room_name:D132
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22fea1ebeaaa",
+StreamUrls: []string{"live_stream_22fea1ebeaaa", "live_stream_22fea1ebeaaa_2"},
+}
+
+deviceno:D141, device:2233972d00e5, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:19, ver:1.2.0.11, ip:172.16.30.204
+room_info:room_id:100000931, room_name:D141
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2233972d00e5",
+StreamUrls: []string{"live_stream_2233972d00e5", "live_stream_2233972d00e5_2"},
+}
+
+deviceno:D151, device:22d17a7d71aa, logintime:2018-04-26 14:26:06, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.30.159
+room_info:room_id:100000755, room_name:D151
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22d17a7d71aa",
+StreamUrls: []string{"live_stream_22d17a7d71aa", "live_stream_22d17a7d71aa_2"},
+}
+
+deviceno:D152, device:222e07a98189, logintime:2018-04-26 14:25:49, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.30.29
+room_info:room_id:100000870, room_name:D152
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222e07a98189",
+StreamUrls: []string{"live_stream_222e07a98189", "live_stream_222e07a98189_2"},
+}
+
+deviceno:D161, device:32b7ca7add67, logintime:2018-04-26 16:51:36, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.30.213
+room_info:room_id:100000756, room_name:D161
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32b7ca7add67",
+StreamUrls: []string{"live_stream_32b7ca7add67", "live_stream_32b7ca7add67_2"},
+}
+
+deviceno:D162, device:3288b85582b9, logintime:2018-04-26 14:26:36, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.30.221
+room_info:room_id:100000871, room_name:D162
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3288b85582b9",
+StreamUrls: []string{"live_stream_3288b85582b9", "live_stream_3288b85582b9_2"},
+}
+
+deviceno:D171, device:32794a258e98, logintime:2018-04-26 14:26:40, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.30.199
+room_info:room_id:100000864, room_name:D171
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32794a258e98",
+StreamUrls: []string{"live_stream_32794a258e98", "live_stream_32794a258e98_2"},
+}
+
+deviceno:D172, device:22157dc487f1, logintime:2018-04-26 14:26:39, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.30.133
+room_info:room_id:100000872, room_name:D172
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22157dc487f1",
+StreamUrls: []string{"live_stream_22157dc487f1", "live_stream_22157dc487f1_2"},
+}
+
+deviceno:D181, device:328c90002007, logintime:2018-04-26 14:26:49, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.30.30
+room_info:room_id:100000868, room_name:D181
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_328c90002007",
+StreamUrls: []string{"live_stream_328c90002007", "live_stream_328c90002007_2"},
+}
+
+deviceno:D71, device:32c7b2dfbb4d, logintime:2018-04-26 14:26:37, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.30.38
+room_info:room_id:100000857, room_name:D71
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32c7b2dfbb4d",
+StreamUrls: []string{"live_stream_32c7b2dfbb4d", "live_stream_32c7b2dfbb4d_2"},
+}
+
+deviceno:D72, device:329a24e6974f, logintime:2018-04-26 14:26:55, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.30.74
+room_info:room_id:100000869, room_name:D72
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_329a24e6974f",
+StreamUrls: []string{"live_stream_329a24e6974f", "live_stream_329a24e6974f_2"},
+}
+
+deviceno:D81, device:3276f541c8f4, logintime:2018-04-26 14:27:22, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.30.236
+room_info:room_id:100000858, room_name:D81
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3276f541c8f4",
+StreamUrls: []string{"live_stream_3276f541c8f4", "live_stream_3276f541c8f4_2"},
+}
+
+deviceno:D82, device:2219cb138e1e, logintime:2018-04-26 14:27:11, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.30.82
+room_info:room_id:100000865, room_name:D82
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2219cb138e1e",
+StreamUrls: []string{"live_stream_2219cb138e1e", "live_stream_2219cb138e1e_2"},
+}
+
+deviceno:D91, device:32d0a8b6b6e0, logintime:2018-04-26 14:27:27, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.30.32
+room_info:room_id:100000859, room_name:D91
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32d0a8b6b6e0",
+StreamUrls: []string{"live_stream_32d0a8b6b6e0", "live_stream_32d0a8b6b6e0_2"},
+}
+
+deviceno:D92, device:22d20258fc90, logintime:2018-04-26 14:27:29, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.30.71
+room_info:room_id:100000866, room_name:D92
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22d20258fc90",
+StreamUrls: []string{"live_stream_22d20258fc90", "live_stream_22d20258fc90_2"},
+}
+
+deviceno:F101, device:00d291309bd1, logintime:2018-04-26 14:13:50, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.10.138
+room_info:room_id:100000656, room_name:F101
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d291309bd1",
+StreamUrls: []string{"live_stream_00d291309bd1", "live_stream_00d291309bd1_2"},
+}
+
+deviceno:F11, device:00d19367f7b1, logintime:2018-04-25 10:53:27, hb:2018-04-26 17:06:11, ver:1.2.0.9, ip:172.16.10.249
+room_info:room_id:100000648, room_name:F11
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d19367f7b1",
+StreamUrls: []string{"live_stream_00d19367f7b1", "live_stream_00d19367f7b1_2"},
+}
+
+deviceno:F111, device:00d28a01d493, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:17, ver:1.2.0.11, ip:172.16.10.137
+room_info:room_id:100000657, room_name:F111
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d28a01d493",
+StreamUrls: []string{"live_stream_00d28a01d493", "live_stream_00d28a01d493_2"},
+}
+
+deviceno:F121, device:00d257e9090f, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:15, ver:1.2.0.11, ip:172.16.10.36
+room_info:room_id:100000658, room_name:F121
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d257e9090f",
+StreamUrls: []string{"live_stream_00d257e9090f", "live_stream_00d257e9090f_2"},
+}
+
+deviceno:F131, device:00d12a9db4cc, logintime:2018-04-26 14:14:02, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.10.195
+room_info:room_id:100000659, room_name:F131
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d12a9db4cc",
+StreamUrls: []string{"live_stream_00d12a9db4cc", "live_stream_00d12a9db4cc_2"},
+}
+
+deviceno:F151, device:00d123c3400b, logintime:2018-04-26 14:14:04, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.10.154
+room_info:room_id:100000660, room_name:F151
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d123c3400b",
+StreamUrls: []string{"live_stream_00d123c3400b", "live_stream_00d123c3400b_2"},
+}
+
+deviceno:F161, device:00d228d8d540, logintime:2018-04-26 14:14:06, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.10.120
+room_info:room_id:100000661, room_name:F161
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d228d8d540",
+StreamUrls: []string{"live_stream_00d228d8d540", "live_stream_00d228d8d540_2"},
+}
+
+deviceno:F171, device:00d26823781a, logintime:2018-04-26 14:14:05, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.10.206
+room_info:room_id:100000662, room_name:F171
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d26823781a",
+StreamUrls: []string{"live_stream_00d26823781a", "live_stream_00d26823781a_2"},
+}
+
+deviceno:F181, device:00d19a83aabc, logintime:2018-04-26 14:14:09, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.10.166
+room_info:room_id:100000663, room_name:F181
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d19a83aabc",
+StreamUrls: []string{"live_stream_00d19a83aabc", "live_stream_00d19a83aabc_2"},
+}
+
+deviceno:F191, device:00d166a8cc19, logintime:2018-04-25 10:52:51, hb:2018-04-26 17:06:10, ver:1.2.0.11, ip:172.16.10.31
+room_info:room_id:100000665, room_name:F191
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d166a8cc19",
+StreamUrls: []string{"live_stream_00d166a8cc19", "live_stream_00d166a8cc19_2"},
+}
+
+deviceno:F201, device:00d2bd061ca3, logintime:2018-04-26 14:14:16, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.10.85
+room_info:room_id:100000667, room_name:F201
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d2bd061ca3",
+StreamUrls: []string{"live_stream_00d2bd061ca3", "live_stream_00d2bd061ca3_2"},
+}
+
+deviceno:F21, device:22aa66a2975b, logintime:2018-04-26 14:14:13, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.10.95
+room_info:room_id:100000703, room_name:F21
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22aa66a2975b",
+StreamUrls: []string{"live_stream_22aa66a2975b", "live_stream_22aa66a2975b_2"},
+}
+
+deviceno:F211, device:00d12a708878, logintime:2018-04-26 14:14:31, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.10.144
+room_info:room_id:100000669, room_name:F211
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d12a708878",
+StreamUrls: []string{"live_stream_00d12a708878", "live_stream_00d12a708878_2"},
+}
+
+deviceno:F221, device:00d2a2fabe28, logintime:2018-04-26 14:14:21, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.10.174
+room_info:room_id:100000671, room_name:F221
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d2a2fabe28",
+StreamUrls: []string{"live_stream_00d2a2fabe28", "live_stream_00d2a2fabe28_2"},
+}
+
+deviceno:F231, device:00d2bdc4111a, logintime:2018-04-26 14:14:37, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.20.125
+room_info:room_id:100000673, room_name:F231
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d2bdc4111a",
+StreamUrls: []string{"live_stream_00d2bdc4111a", "live_stream_00d2bdc4111a_2"},
+}
+
+deviceno:F31, device:00d10e26996f, logintime:2018-04-26 14:22:44, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.10.118
+room_info:room_id:100000649, room_name:F31
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d10e26996f",
+StreamUrls: []string{"live_stream_00d10e26996f", "live_stream_00d10e26996f_2"},
+}
+
+deviceno:F41, device:00d14b3fa04b, logintime:2018-04-26 14:21:27, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.10.70
+room_info:room_id:100000650, room_name:F41
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d14b3fa04b",
+StreamUrls: []string{"live_stream_00d14b3fa04b", "live_stream_00d14b3fa04b_2"},
+}
+
+deviceno:F51, device:3284d1114389, logintime:2018-04-26 14:21:31, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.10.101
+room_info:room_id:100000651, room_name:F51
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3284d1114389",
+StreamUrls: []string{"live_stream_3284d1114389", "live_stream_3284d1114389_2"},
+}
+
+deviceno:F61, device:00d1da16ecaf, logintime:2018-04-26 14:21:30, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.10.103
+room_info:room_id:100000652, room_name:F61
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d1da16ecaf",
+StreamUrls: []string{"live_stream_00d1da16ecaf", "live_stream_00d1da16ecaf_2"},
+}
+
+deviceno:F71, device:00d285973806, logintime:2018-04-26 14:21:35, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.10.178
+room_info:room_id:100000653, room_name:F71
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d285973806",
+StreamUrls: []string{"live_stream_00d285973806", "live_stream_00d285973806_2"},
+}
+
+deviceno:F81, device:32832bd14dbe, logintime:2018-04-26 14:21:36, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.10.181
+room_info:room_id:100000654, room_name:F81
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32832bd14dbe",
+StreamUrls: []string{"live_stream_32832bd14dbe", "live_stream_32832bd14dbe_2"},
+}
+
+deviceno:F91, device:00d189ab00dd, logintime:2018-04-26 14:21:40, hb:2018-04-26 17:06:15, ver:1.2.0.12, ip:172.16.10.136
+room_info:room_id:100000655, room_name:F91
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_00d189ab00dd",
+StreamUrls: []string{"live_stream_00d189ab00dd", "live_stream_00d189ab00dd_2"},
+}
+
+deviceno:G261, device:32d4ca068cb6, logintime:2018-04-26 14:13:26, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.40.198
+room_info:room_id:100000446, room_name:G261
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32d4ca068cb6",
+StreamUrls: []string{"live_stream_32d4ca068cb6", "live_stream_32d4ca068cb6_2"},
+}
+
+deviceno:G271, device:222c9f405391, logintime:2018-04-26 14:13:43, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.40.131
+room_info:room_id:100000447, room_name:G271
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222c9f405391",
+StreamUrls: []string{"live_stream_222c9f405391", "live_stream_222c9f405391_2"},
+}
+
+deviceno:G281, device:222600a582dc, logintime:2018-04-26 14:13:41, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.40.197
+room_info:room_id:100000448, room_name:G281
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_222600a582dc",
+StreamUrls: []string{"live_stream_222600a582dc", "live_stream_222600a582dc_2"},
+}
+
+deviceno:H1, device:223977169873, logintime:2018-04-26 14:01:57, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.90.253
+room_info:room_id:100000728, room_name:H1
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_223977169873",
+StreamUrls: []string{"live_stream_223977169873", "live_stream_223977169873_2"},
+}
+
+deviceno:H10, device:22aaf38dbe33, logintime:2018-04-26 14:01:58, hb:2018-04-26 17:06:14, ver:1.2.0.12, ip:172.16.90.101
+room_info:room_id:100000739, room_name:H10
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22aaf38dbe33",
+StreamUrls: []string{"live_stream_22aaf38dbe33", "live_stream_22aaf38dbe33_2"},
+}
+
+deviceno:H11, device:326a926349d5, logintime:2018-04-26 14:02:23, hb:2018-04-26 17:06:19, ver:1.2.0.12, ip:172.16.90.145
+room_info:room_id:100000740, room_name:H11
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_326a926349d5",
+StreamUrls: []string{"live_stream_326a926349d5", "live_stream_326a926349d5_2"},
+}
+
+deviceno:H12, device:22e7cb77a526, logintime:2018-04-26 14:02:01, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.90.254
+room_info:room_id:100000741, room_name:H12
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22e7cb77a526",
+StreamUrls: []string{"live_stream_22e7cb77a526", "live_stream_22e7cb77a526_2"},
+}
+
+deviceno:H13, device:22f5ea67a11a, logintime:2018-04-26 14:02:20, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.90.219
+room_info:room_id:100000742, room_name:H13
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22f5ea67a11a",
+StreamUrls: []string{"live_stream_22f5ea67a11a", "live_stream_22f5ea67a11a_2"},
+}
+
+deviceno:H14, device:325af89a6a47, logintime:2018-04-26 14:02:22, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.90.215
+room_info:room_id:100000743, room_name:H14
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_325af89a6a47",
+StreamUrls: []string{"live_stream_325af89a6a47", "live_stream_325af89a6a47_2"},
+}
+
+deviceno:H15, device:3213f4cbd966, logintime:2018-04-26 14:02:25, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.90.31
+room_info:room_id:100000744, room_name:H15
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3213f4cbd966",
+StreamUrls: []string{"live_stream_3213f4cbd966", "live_stream_3213f4cbd966_2"},
+}
+
+deviceno:H16, device:22973eb46cd3, logintime:2018-04-26 14:02:30, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.90.16
+room_info:room_id:100000745, room_name:H16
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22973eb46cd3",
+StreamUrls: []string{"live_stream_22973eb46cd3", "live_stream_22973eb46cd3_2"},
+}
+
+deviceno:H17, device:32613b01fb89, logintime:2018-04-26 14:02:30, hb:2018-04-26 17:06:16, ver:1.2.0.12, ip:172.16.90.147
+room_info:room_id:100000746, room_name:H17
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32613b01fb89",
+StreamUrls: []string{"live_stream_32613b01fb89", "live_stream_32613b01fb89_2"},
+}
+
+deviceno:H19, device:324c2e1c72f6, logintime:2018-04-26 14:02:36, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.90.65
+room_info:room_id:100000748, room_name:H19
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_324c2e1c72f6",
+StreamUrls: []string{"live_stream_324c2e1c72f6", "live_stream_324c2e1c72f6_2"},
+}
+
+deviceno:H2, device:223db4ba8c1b, logintime:2018-04-26 14:02:41, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.90.209
+room_info:room_id:100000729, room_name:H2
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_223db4ba8c1b",
+StreamUrls: []string{"live_stream_223db4ba8c1b", "live_stream_223db4ba8c1b_2"},
+}
+
+deviceno:H20, device:22077dff9a21, logintime:2018-04-26 14:02:42, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.90.242
+room_info:room_id:100000749, room_name:H20
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_22077dff9a21",
+StreamUrls: []string{"live_stream_22077dff9a21", "live_stream_22077dff9a21_2"},
+}
+
+deviceno:H21, device:2223fc61e37b, logintime:2018-04-26 14:02:45, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.90.77
+room_info:room_id:100000750, room_name:H21
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2223fc61e37b",
+StreamUrls: []string{"live_stream_2223fc61e37b", "live_stream_2223fc61e37b_2"},
+}
+
+deviceno:H22, device:3285f8dc1926, logintime:2018-04-26 14:02:45, hb:2018-04-26 17:06:11, ver:1.2.0.12, ip:172.16.90.251
+room_info:room_id:100000751, room_name:H22
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_3285f8dc1926",
+StreamUrls: []string{"live_stream_3285f8dc1926", "live_stream_3285f8dc1926_2"},
+}
+
+deviceno:H4, device:228d4f0feba9, logintime:2018-04-26 14:02:50, hb:2018-04-26 17:06:17, ver:1.2.0.12, ip:172.16.90.13
+room_info:room_id:100000730, room_name:H4
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_228d4f0feba9",
+StreamUrls: []string{"live_stream_228d4f0feba9", "live_stream_228d4f0feba9_2"},
+}
+
+deviceno:H5, device:2219aab69ac4, logintime:2018-04-26 14:03:25, hb:2018-04-26 17:06:13, ver:1.2.0.12, ip:172.16.90.170
+room_info:room_id:100000731, room_name:H5
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2219aab69ac4",
+StreamUrls: []string{"live_stream_2219aab69ac4", "live_stream_2219aab69ac4_2"},
+}
+
+deviceno:H6, device:32bdbc1302a6, logintime:2018-04-26 14:02:52, hb:2018-04-26 17:06:18, ver:1.2.0.12, ip:172.16.90.187
+room_info:room_id:100000732, room_name:H6
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32bdbc1302a6",
+StreamUrls: []string{"live_stream_32bdbc1302a6", "live_stream_32bdbc1302a6_2"},
+}
+
+deviceno:H7, device:2226eca4e9ff, logintime:2018-04-26 16:51:09, hb:2018-04-26 17:06:10, ver:1.2.0.12, ip:172.16.90.163
+room_info:room_id:100000733, room_name:H7
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_2226eca4e9ff",
+StreamUrls: []string{"live_stream_2226eca4e9ff", "live_stream_2226eca4e9ff_2"},
+}
+
+deviceno:H8, device:32c832314ed8, logintime:2018-04-26 14:03:36, hb:2018-04-26 17:06:12, ver:1.2.0.12, ip:172.16.90.172
+room_info:room_id:100000734, room_name:H8
+ZegoInfo:&boomegg_cn_wawa_proto.ZegoInfo{RoomID: "live_room_32c832314ed8",
+StreamUrls: []string{"live_stream_32c832314ed8", "live_stream_32c832314ed8_2"},
+}

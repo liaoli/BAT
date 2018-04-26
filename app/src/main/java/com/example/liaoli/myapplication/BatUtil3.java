@@ -15,37 +15,24 @@ import java.io.OutputStreamWriter;
  * Created by liaoli on 2018/4/22.
  */
 
-public class BatUtil2 {
+public class BatUtil3 {
 
     public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
 //    public static String desFile = "C:\\Users\\liaoli\\Desktop\\upgrade.txt";
-    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\curl.bat" ;
-    private static String filePath = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\XINHUI.html" ;
+    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\yuancheng\\" ;
+    private static String filePath = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\curl.bat" ;
 
     public static void main(String[] args){
 
         FileInputStream fileInputStream = null;
         InputStreamReader inputStreamReader = null;
 
-        FileOutputStream fileOutputStream = null;
-        OutputStreamWriter outputStreamWriter = null;
 
         BufferedReader bufferedReader = null;
-        BufferedWriter bufferedWriter = null;
         try {
-
-            File file = new File(filePath);
-
-            if(!file.exists()){
-                file.createNewFile();
-            }
-
             fileInputStream =  new FileInputStream(desFile);
             inputStreamReader = new InputStreamReader(fileInputStream);
             bufferedReader = new BufferedReader(inputStreamReader);
-
-            fileOutputStream = new FileOutputStream(file);
-            bufferedWriter = new BufferedWriter(new OutputStreamWriter(fileOutputStream));
 
             String line = null;
 
@@ -61,15 +48,9 @@ public class BatUtil2 {
                     if(s.contains("device")){
                         String[] sss = s.split(":");
                         String device = sss[1];
-                        //<a href="https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=32e0709404a6&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk">刷新</a>
-                        String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk";
-
-                       // String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=1&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/sign_wawaji_companyXuebao_release_v1.2.0.12_201804261456.apk";
-
-                        curl = "<a href=\""+ curl + "\">"+deviceno+"</a>";
-
-                        bufferedWriter.write(curl);
-                        bufferedWriter.newLine();
+                        String  curl = "curl https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk";
+                        CreateBatFile(deviceno,curl);
+                        break;
                     }
                 }
             }
@@ -78,7 +59,6 @@ public class BatUtil2 {
         } finally {
             try {
                 bufferedReader.close();
-                bufferedWriter.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -108,16 +88,14 @@ public class BatUtil2 {
         return deviceno;
     }
 
-    private static void CreateBatFile(String deviceno, String ip) throws IOException {
+    private static void CreateBatFile(String deviceno, String curl) throws IOException {
         File file = new File(path+File.separator + deviceno+".bat");
         if(!file.exists()){
             file.createNewFile();
         }
         FileOutputStream fileOutputStream = new FileOutputStream(file);
         BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(fileOutputStream));
-       // String data = "ECHO\nadb connect "+ ip +"\nadb reboot"; //重启
-        String data = "ECHO\nadb connect "+ ip + "\nadb install -r wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk" +"\nadb shell am  startservice -n com.xinhuitech.xhdollmachineserver/com.xinhuitech.xhdollmachineserver.MainActivity" +"\nadb disconnect";
-        bufferedWriter.write(data);
+        bufferedWriter.write(curl);
         bufferedWriter.close();
 
     }
