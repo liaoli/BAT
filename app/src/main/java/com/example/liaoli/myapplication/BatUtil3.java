@@ -48,7 +48,7 @@ public class BatUtil3 {
                     if(s.contains("device")){
                         String[] sss = s.split(":");
                         String device = sss[1];
-                        String  curl = "curl https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk";
+                        String  curl = "curl \"https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk\"";
                         CreateBatFile(deviceno,curl);
                         break;
                     }
