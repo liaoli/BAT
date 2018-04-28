@@ -17,10 +17,10 @@ import java.io.OutputStreamWriter;
 
 public class BatUtil2 {
 
-    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
+    public static String desFile = "D:\\Android\\xuihui\\20180126\\MyApplication\\app\\AQ.txt";
 //    public static String desFile = "C:\\Users\\liaoli\\Desktop\\upgrade.txt";
     private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\curl.bat" ;
-    private static String filePath = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\XINHUI.html" ;
+    private static String filePath = "D:\\Android\\xuihui\\20180126\\MyApplication\\app\\AQ.html" ;
 
     public static void main(String[] args){
 
@@ -62,9 +62,9 @@ public class BatUtil2 {
                         String[] sss = s.split(":");
                         String device = sss[1];
                         //<a href="https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=32e0709404a6&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk">刷新</a>
-                        String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk";
-
-                       // String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=1&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/sign_wawaji_companyXuebao_release_v1.2.0.12_201804261456.apk";
+//                        String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.11_201804270007.apk";
+//
+                        String  curl = "https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=1&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/sign_wawaji_companyXuebao_release_v1.2.0.11_201804270026.apk";
 
                         curl = "<a href=\""+ curl + "\">"+deviceno+"</a>";
 
