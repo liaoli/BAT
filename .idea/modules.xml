@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BAT.iml" filepath="$PROJECT_DIR$/BAT.iml" />
+      <module fileurl="file://D:\Android\xuihui\20180126\MyApplication\BAT.iml" filepath="D:\Android\xuihui\20180126\MyApplication\BAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://E:\xinhui\workSpace\wawajiapp\20180420\BAT\MyApplication.iml" filepath="E:\xinhui\workSpace\wawajiapp\20180420\BAT\MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
