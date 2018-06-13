@@ -1,419 +1,430 @@
-deviceno:A101, device:32a77b0c7241, logintime:2018-05-05 14:03:18, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:18739, ver:1.0.11, ip:172.16.100.198
+deviceno:A101, device:32a77b0c7241, logintime:2018-06-08 03:55:53, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:36141, ver:1.0.11, ip:172.16.100.228
 
-deviceno:A111, device:32e0709404a6, logintime:2018-05-05 18:25:01, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:30361, ver:1.0.11, ip:172.16.100.176
+deviceno:A111, device:32e0709404a6, logintime:2018-06-07 21:50:33, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:46001, ver:1.0.11, ip:172.16.100.173
 
-deviceno:A121, device:326bccffb3b6, logintime:2018-05-05 20:17:46, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:45058, ver:1.0.11, ip:172.16.100.133
+deviceno:A121, device:326bccffb3b6, logintime:2018-06-08 09:52:21, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:48411, ver:1.0.11, ip:172.16.100.169
 
-deviceno:A131, device:32ef5ef86a42, logintime:2018-05-05 17:53:22, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:40098, ver:1.0.11, ip:172.16.100.114
+deviceno:A131, device:32ef5ef86a42, logintime:2018-06-08 01:36:37, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:14315, ver:1.0.11, ip:172.16.100.140
 
-deviceno:A141, device:22fb4d557563, logintime:2018-05-05 16:23:14, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:43145, ver:1.0.11, ip:172.16.100.206
+deviceno:A141, device:22fb4d557563, logintime:2018-06-07 21:50:40, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:13736, ver:1.0.11, ip:172.16.100.81
 
-deviceno:A151, device:22f3ca978da7, logintime:2018-05-07 20:41:32, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:48578, ver:1.0.11, ip:172.16.100.254
+deviceno:A151, device:22f3ca978da7, logintime:2018-06-08 05:19:01, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:42139, ver:1.0.11, ip:172.16.100.46
 
-deviceno:A161, device:32279e14c1ea, logintime:2018-05-07 14:07:35, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:24896, ver:1.0.11, ip:172.16.100.232
+deviceno:A171, device:2265543d238f, logintime:2018-06-08 02:45:28, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:45785, ver:1.0.11, ip:172.16.100.186
 
-deviceno:A171, device:2265543d238f, logintime:2018-05-07 23:38:17, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:28630, ver:1.0.11, ip:172.16.100.41
+deviceno:A191, device:32f7b6957b4c, logintime:2018-06-08 03:00:24, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:24790, ver:1.0.11, ip:172.16.100.130
 
-deviceno:A191, device:32f7b6957b4c, logintime:2018-05-07 14:17:08, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:47272, ver:1.0.11, ip:172.16.100.159
+deviceno:A201, device:227b4d02df2c, logintime:2018-06-07 21:51:53, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:42308, ver:1.0.11, ip:172.16.100.163
 
-deviceno:A201, device:227b4d02df2c, logintime:2018-05-07 21:43:33, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:10788, ver:1.0.11, ip:172.16.100.62
+deviceno:A21, device:220a02c3dccb, logintime:2018-06-08 05:34:09, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:35022, ver:1.0.11, ip:172.16.100.137
 
-deviceno:A21, device:220a02c3dccb, logintime:2018-05-07 13:56:03, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:40409, ver:1.0.11, ip:172.16.100.30
+deviceno:A211, device:22d6574bd02a, logintime:2018-06-07 21:51:58, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:17321, ver:1.0.11, ip:172.16.60.204
 
-deviceno:A211, device:22d6574bd02a, logintime:2018-05-07 12:16:22, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:23843, ver:1.0.11, ip:172.16.60.175
+deviceno:A22, device:22e609871555, logintime:2018-06-08 05:02:20, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:44784, ver:1.0.11, ip:172.16.100.27
 
-deviceno:A22, device:22e609871555, logintime:2018-05-07 13:58:51, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:23019, ver:1.0.11, ip:172.16.100.166
+deviceno:A221, device:2240ccbfdc0a, logintime:2018-06-07 21:52:13, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:17978, ver:1.0.11, ip:172.16.100.123
 
-deviceno:A221, device:2240ccbfdc0a, logintime:2018-05-05 10:46:27, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:14164, ver:1.0.11, ip:172.16.100.13
+deviceno:A231, device:2214542a3ac6, logintime:2018-06-08 03:30:33, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:20674, ver:1.0.11, ip:172.16.100.177
 
-deviceno:A231, device:2214542a3ac6, logintime:2018-05-05 20:17:23, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:46252, ver:1.0.11, ip:172.16.100.199
+deviceno:A241, device:22e63f4739b3, logintime:2018-06-08 03:39:24, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:35266, ver:1.0.11, ip:172.16.100.227
 
-deviceno:A241, device:22e63f4739b3, logintime:2018-05-09 13:57:26, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:28735, ver:1.0.11, ip:172.16.100.107
+deviceno:A31, device:32efaad83597, logintime:2018-06-08 01:38:28, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:46050, ver:1.0.11, ip:172.16.100.135
 
-deviceno:A31, device:32efaad83597, logintime:2018-05-07 11:02:52, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:31781, ver:1.0.11, ip:172.16.100.27
+deviceno:A32, device:22a6531f5ad5, logintime:2018-06-08 05:05:56, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:30643, ver:1.0.11, ip:172.16.100.3
 
-deviceno:A32, device:22a6531f5ad5, logintime:2018-05-07 13:59:52, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:24331, ver:1.0.11, ip:172.16.100.127
+deviceno:A41, device:22e0bd65a275, logintime:2018-06-04 00:04:12, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:23791, ver:1.0.11, ip:172.16.100.152
 
-deviceno:A41, device:22e0bd65a275, logintime:2018-05-07 18:42:14, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:11026, ver:1.0.11, ip:172.16.100.203
+deviceno:A42, device:32c8cdfee4af, logintime:2018-06-08 05:23:37, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:29688, ver:1.0.11, ip:172.16.100.198
 
-deviceno:A42, device:32c8cdfee4af, logintime:2018-05-05 18:49:55, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:34425, ver:1.0.11, ip:172.16.100.86
+deviceno:A51, device:32a35a847f18, logintime:2018-06-07 21:53:57, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:22466, ver:1.0.11, ip:172.16.100.222
 
-deviceno:A51, device:32a35a847f18, logintime:2018-05-07 20:16:11, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:48225, ver:1.0.11, ip:172.16.100.149
+deviceno:A52, device:22d8caf3f147, logintime:2018-06-08 05:16:51, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:25973, ver:1.0.11, ip:172.16.100.90
 
-deviceno:A52, device:22d8caf3f147, logintime:2018-05-09 06:11:18, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:11159, ver:1.0.11, ip:172.16.100.171
+deviceno:A61, device:22cf4422a49a, logintime:2018-06-08 05:14:24, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:23655, ver:1.0.11, ip:172.16.100.166
 
-deviceno:A61, device:22cf4422a49a, logintime:2018-05-07 14:09:45, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:22060, ver:1.0.11, ip:172.16.100.99
+deviceno:A62, device:32967fdd5d01, logintime:2018-06-08 05:00:56, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:47710, ver:1.0.11, ip:172.16.100.122
 
-deviceno:A62, device:32967fdd5d01, logintime:2018-05-05 11:06:09, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:33409, ver:1.0.11, ip:172.16.100.9
+deviceno:A71, device:2241abecb6f9, logintime:2018-06-08 04:01:43, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:13134, ver:1.0.11, ip:172.16.100.91
 
-deviceno:A71, device:2241abecb6f9, logintime:2018-05-07 20:16:16, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:47966, ver:1.0.11, ip:172.16.100.170
+deviceno:A72, device:32d40dfa3979, logintime:2018-06-08 02:50:48, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:24037, ver:1.0.11, ip:172.16.100.242
 
-deviceno:A72, device:32d40dfa3979, logintime:2018-05-05 17:30:23, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:23883, ver:1.0.11, ip:172.16.100.104
+deviceno:A81, device:32f1241eae53, logintime:2018-06-07 21:54:14, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:36229, ver:1.0.11, ip:172.16.100.229
 
-deviceno:A81, device:32f1241eae53, logintime:2018-05-05 14:32:01, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:32459, ver:1.0.11, ip:172.16.100.201
+deviceno:A91, device:3276229a1bee, logintime:2018-06-08 05:29:05, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:16266, ver:1.0.11, ip:172.16.100.159
 
-deviceno:A91, device:3276229a1bee, logintime:2018-05-07 21:12:42, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:28628, ver:1.0.11, ip:172.16.100.179
+deviceno:AQ1, device:22edfc01fd4e, logintime:2018-06-08 01:41:53, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:27926, ver:1.0.11, ip:172.16.100.29
 
-deviceno:AQ1, device:22edfc01fd4e, logintime:2018-05-08 13:41:47, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:11091, ver:1.0.11, ip:172.16.100.192
+deviceno:AQ10, device:22a2e849193b, logintime:2018-06-08 02:21:19, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:34217, ver:1.0.11, ip:172.16.60.252
 
-deviceno:AQ10, device:22a2e849193b, logintime:2018-04-27 01:05:36, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:15636, ver:1.0.11, ip:172.16.60.203
+deviceno:AQ11, device:329b25f94683, logintime:2018-06-04 00:04:19, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:35194, ver:1.0.11, ip:172.16.100.94
 
-deviceno:AQ11, device:329b25f94683, logintime:2018-04-27 01:05:38, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:15561, ver:1.0.11, ip:172.16.100.227
+deviceno:AQ12, device:2230b9a53ab3, logintime:2018-06-08 01:46:48, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:10485, ver:1.0.11, ip:172.16.100.75
 
-deviceno:AQ12, device:2230b9a53ab3, logintime:2018-04-27 01:05:38, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:15565, ver:1.0.11, ip:172.16.100.38
+deviceno:AQ13, device:22bd6ebb14b4, logintime:2018-06-08 01:59:28, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:22810, ver:1.0.11, ip:172.16.60.146
 
-deviceno:AQ13, device:22bd6ebb14b4, logintime:2018-05-05 15:56:15, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:27306, ver:1.0.11, ip:172.16.60.235
+deviceno:AQ14, device:3261904b515d, logintime:2018-06-08 02:00:01, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:34375, ver:1.0.11, ip:172.16.100.246
 
-deviceno:AQ14, device:3261904b515d, logintime:2018-05-05 17:25:05, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:21483, ver:1.0.11, ip:172.16.100.128
+deviceno:AQ15, device:229edff822a1, logintime:2018-06-08 02:00:02, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:34313, ver:1.0.11, ip:172.16.100.170
 
-deviceno:AQ15, device:229edff822a1, logintime:2018-05-05 15:27:50, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:21352, ver:1.0.11, ip:172.16.100.183
+deviceno:AQ16, device:320c4288acb4, logintime:2018-06-08 01:59:36, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:23313, ver:1.0.11, ip:172.16.60.179
 
-deviceno:AQ16, device:320c4288acb4, logintime:2018-05-07 14:08:51, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:23232, ver:1.0.11, ip:172.16.60.32
+deviceno:AQ17, device:224069d6907f, logintime:2018-06-08 01:59:39, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:35884, ver:1.0.11, ip:172.16.100.69
 
-deviceno:AQ17, device:224069d6907f, logintime:2018-05-07 14:09:06, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:22918, ver:1.0.11, ip:172.16.100.208
+deviceno:AQ18, device:3213decf4518, logintime:2018-06-08 03:40:24, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:20242, ver:1.0.11, ip:172.16.60.80
 
-deviceno:AQ18, device:3213decf4518, logintime:2018-05-07 14:40:56, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:41383, ver:1.0.11, ip:172.16.60.147
+deviceno:AQ19, device:2287e0c58eb6, logintime:2018-06-06 12:35:01, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:38797, ver:1.0.11, ip:172.16.60.75
 
-deviceno:AQ19, device:2287e0c58eb6, logintime:2018-05-08 02:51:25, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:48308, ver:1.0.11, ip:172.16.60.130
+deviceno:AQ2, device:2211ad347e3c, logintime:2018-06-08 01:59:45, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:35427, ver:1.0.11, ip:172.16.100.132
 
-deviceno:AQ2, device:2211ad347e3c, logintime:2018-05-05 19:48:06, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:19082, ver:1.0.11, ip:172.16.100.123
+deviceno:AQ20, device:32d643d042f0, logintime:2018-06-04 22:22:22, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:23931, ver:1.0.11, ip:172.16.60.59
 
-deviceno:AQ20, device:32d643d042f0, logintime:2018-05-09 17:07:34, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:10930, ver:1.0.11, ip:172.16.60.105
+deviceno:AQ21, device:224dd48468db, logintime:2018-06-07 21:11:58, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:30800, ver:1.0.11, ip:172.16.60.199
 
-deviceno:AQ21, device:224dd48468db, logintime:2018-05-05 18:31:08, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:11356, ver:1.0.11, ip:172.16.60.40
+deviceno:AQ22, device:3210d1ebfc4e, logintime:2018-06-08 02:00:10, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:25585, ver:1.0.11, ip:172.16.60.182
 
-deviceno:AQ22, device:3210d1ebfc4e, logintime:2018-05-07 14:10:49, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:20540, ver:1.0.11, ip:172.16.60.194
+deviceno:AQ24, device:224ae1c6cbef, logintime:2018-06-07 21:13:27, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:34350, ver:1.0.11, ip:172.16.60.7
 
-deviceno:AQ23, device:222d98723ef6, logintime:2018-05-05 18:50:17, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:26009, ver:1.0.11, ip:172.16.60.172
+deviceno:AQ25, device:2208afe4b823, logintime:2018-06-04 00:04:15, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:23952, ver:1.0.11, ip:172.16.60.145
 
-deviceno:AQ24, device:224ae1c6cbef, logintime:2018-05-05 18:13:04, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:35028, ver:1.0.11, ip:172.16.60.49
+deviceno:AQ27, device:22682fee2a26, logintime:2018-06-08 04:53:01, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:42932, ver:1.0.11, ip:172.16.60.95
 
-deviceno:AQ25, device:2208afe4b823, logintime:2018-05-07 14:10:56, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:38967, ver:1.0.11, ip:172.16.60.210
+deviceno:AQ28, device:327db968f26f, logintime:2018-06-08 02:00:41, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:31815, ver:1.0.11, ip:172.16.60.37
 
-deviceno:AQ26, device:32bb3f2fbc44, logintime:2018-04-27 06:29:21, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:19508, ver:1.0.11, ip:172.16.60.191
+deviceno:AQ29, device:226def4db5f5, logintime:2018-06-08 02:52:58, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:43964, ver:1.0.11, ip:172.16.60.32
 
-deviceno:AQ27, device:22682fee2a26, logintime:2018-05-05 16:57:17, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:26402, ver:1.0.11, ip:172.16.60.76
+deviceno:AQ3, device:32ae1b17b6ff, logintime:2018-06-05 12:46:05, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:28786, ver:1.0.11, ip:172.16.100.54
 
-deviceno:AQ28, device:327db968f26f, logintime:2018-05-07 14:08:44, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:23394, ver:1.0.11, ip:172.16.60.55
+deviceno:AQ30, device:22ffeb33b6fe, logintime:2018-06-08 03:09:34, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:27198, ver:1.0.11, ip:172.16.60.138
 
-deviceno:AQ29, device:226def4db5f5, logintime:2018-05-09 21:22:24, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:30501, ver:1.0.11, ip:172.16.60.78
+deviceno:AQ31, device:229343708fbf, logintime:2018-06-08 02:02:08, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:33703, ver:1.0.11, ip:172.16.60.29
 
-deviceno:AQ3, device:32ae1b17b6ff, logintime:2018-05-05 14:13:08, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:35706, ver:1.0.11, ip:172.16.100.241
+deviceno:AQ32, device:2229a85cec4e, logintime:2018-06-08 02:04:16, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:42422, ver:1.0.11, ip:172.16.60.226
 
-deviceno:AQ30, device:22ffeb33b6fe, logintime:2018-05-07 14:11:45, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:19277, ver:1.0.11, ip:172.16.60.48
+deviceno:AQ33, device:32154bfc0d18, logintime:2018-06-08 02:01:47, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:32368, ver:1.0.11, ip:172.16.60.198
 
-deviceno:AQ31, device:229343708fbf, logintime:2018-05-06 06:26:06, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:48235, ver:1.0.11, ip:172.16.60.38
+deviceno:AQ34, device:22b31f5a6555, logintime:2018-06-08 04:31:41, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:11037, ver:1.0.11, ip:172.16.60.83
 
-deviceno:AQ32, device:2229a85cec4e, logintime:2018-05-07 05:01:13, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:33061, ver:1.0.11, ip:172.16.60.188
+deviceno:AQ35, device:324780a5d72d, logintime:2018-06-08 02:01:52, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:26729, ver:1.0.11, ip:172.16.60.180
 
-deviceno:AQ33, device:32154bfc0d18, logintime:2018-04-27 01:10:20, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:17616, ver:1.0.11, ip:172.16.60.39
+deviceno:AQ36, device:2249ddeefd11, logintime:2018-06-07 21:32:13, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:27772, ver:1.0.11, ip:172.16.60.124
 
-deviceno:AQ34, device:22b31f5a6555, logintime:2018-05-07 14:12:33, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:18253, ver:1.0.11, ip:172.16.60.64
+deviceno:AQ37, device:22b3b55d90d6, logintime:2018-06-08 02:02:00, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:33153, ver:1.0.11, ip:172.16.60.228
 
-deviceno:AQ35, device:324780a5d72d, logintime:2018-05-05 19:24:03, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:46366, ver:1.0.11, ip:172.16.60.231
+deviceno:AQ38, device:3282fb5a43d2, logintime:2018-06-08 03:33:34, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:47941, ver:1.0.11, ip:172.16.60.243
 
-deviceno:AQ36, device:2249ddeefd11, logintime:2018-05-07 14:10:08, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:21498, ver:1.0.11, ip:172.16.60.146
+deviceno:AQ39, device:2276f5875b01, logintime:2018-06-08 02:02:23, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:34732, ver:1.0.11, ip:172.16.60.178
 
-deviceno:AQ37, device:22b3b55d90d6, logintime:2018-05-07 14:13:03, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:17634, ver:1.0.11, ip:172.16.60.12
+deviceno:AQ4, device:22eaff58a1f2, logintime:2018-06-08 02:02:12, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:34001, ver:1.0.11, ip:172.16.100.26
 
-deviceno:AQ38, device:3282fb5a43d2, logintime:2018-04-27 01:13:06, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:25045, ver:1.0.11, ip:172.16.60.24
+deviceno:AQ40, device:3232582ab881, logintime:2018-06-08 04:26:32, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:28043, ver:1.0.11, ip:172.16.60.9
 
-deviceno:AQ39, device:2276f5875b01, logintime:2018-05-06 19:10:20, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:18477, ver:1.0.11, ip:172.16.60.177
+deviceno:AQ41, device:329fb9a9caae, logintime:2018-06-08 03:23:49, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:47901, ver:1.0.11, ip:172.16.60.234
 
-deviceno:AQ4, device:22eaff58a1f2, logintime:2018-05-07 05:05:07, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:23507, ver:1.0.11, ip:172.16.100.98
+deviceno:AQ42, device:22550d9fcba9, logintime:2018-06-08 04:44:12, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:20148, ver:1.0.11, ip:172.16.60.8
 
-deviceno:AQ40, device:3232582ab881, logintime:2018-05-05 15:48:04, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:12711, ver:1.0.11, ip:172.16.60.190
+deviceno:AQ43, device:229d59e7b6a2, logintime:2018-06-08 03:22:23, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:14568, ver:1.0.11, ip:172.16.60.221
 
-deviceno:AQ41, device:329fb9a9caae, logintime:2018-05-05 13:55:46, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:23988, ver:1.0.11, ip:172.16.60.159
+deviceno:AQ44, device:3252bccdf8a7, logintime:2018-06-08 03:37:30, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:27522, ver:1.0.11, ip:172.16.70.234
 
-deviceno:AQ42, device:22550d9fcba9, logintime:2018-05-07 14:28:05, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:23846, ver:1.0.11, ip:172.16.60.47
+deviceno:AQ45, device:22a07abe2520, logintime:2018-06-08 02:02:34, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:35441, ver:1.0.11, ip:172.16.60.40
 
-deviceno:AQ43, device:229d59e7b6a2, logintime:2018-05-08 11:40:12, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:43445, ver:1.0.11, ip:172.16.60.71
+deviceno:AQ46, device:32b82f32e026, logintime:2018-06-08 03:15:29, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:41555, ver:1.0.11, ip:172.16.60.190
 
-deviceno:AQ44, device:3252bccdf8a7, logintime:2018-05-07 05:02:00, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:28162, ver:1.0.11, ip:172.16.70.197
+deviceno:AQ47, device:32b9e1821ad2, logintime:2018-06-08 02:03:07, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:37743, ver:1.0.11, ip:172.16.60.20
 
-deviceno:AQ45, device:22a07abe2520, logintime:2018-05-07 14:26:54, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:37159, ver:1.0.11, ip:172.16.60.94
+deviceno:AQ48, device:32fc1d30f679, logintime:2018-06-08 02:57:39, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:36056, ver:1.0.11, ip:172.16.60.232
 
-deviceno:AQ46, device:32b82f32e026, logintime:2018-05-07 14:14:06, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:16185, ver:1.0.11, ip:172.16.60.250
+deviceno:AQ49, device:22a7846c901d, logintime:2018-06-08 02:02:41, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:23419, ver:1.0.11, ip:172.16.60.205
 
-deviceno:AQ47, device:32b9e1821ad2, logintime:2018-05-05 17:36:00, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:47910, ver:1.0.11, ip:172.16.60.93
+deviceno:AQ5, device:220a59c4e3ff, logintime:2018-06-08 03:26:37, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:36225, ver:1.0.11, ip:172.16.100.245
 
-deviceno:AQ48, device:32fc1d30f679, logintime:2018-05-05 18:43:43, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:13421, ver:1.0.11, ip:172.16.60.35
+deviceno:AQ50, device:2210b8102395, logintime:2018-06-08 04:42:31, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:45838, ver:1.0.11, ip:172.16.60.34
 
-deviceno:AQ49, device:22a7846c901d, logintime:2018-05-03 22:18:33, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:10606, ver:1.0.11, ip:172.16.60.156
+deviceno:AQ6, device:329ccd456538, logintime:2018-06-08 03:38:50, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:32799, ver:1.0.11, ip:172.16.100.2
 
-deviceno:AQ5, device:220a59c4e3ff, logintime:2018-04-27 01:07:21, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:48285, ver:1.0.11, ip:172.16.100.87
+deviceno:AQ7, device:32a751df3cbe, logintime:2018-06-04 00:04:17, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:35373, ver:1.0.11, ip:172.16.100.93
 
-deviceno:AQ50, device:2210b8102395, logintime:2018-05-05 12:25:36, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:10780, ver:1.0.11, ip:172.16.60.198
+deviceno:AQ8, device:22499c34f33d, logintime:2018-06-07 21:41:24, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:23981, ver:1.0.11, ip:172.16.100.226
 
-deviceno:AQ6, device:329ccd456538, logintime:2018-04-27 01:07:25, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:10985, ver:1.0.11, ip:172.16.100.77
+deviceno:AQ9, device:32cc991e5556, logintime:2018-06-07 21:41:45, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:34211, ver:1.0.11, ip:172.16.100.187
 
-deviceno:AQ7, device:32a751df3cbe, logintime:2018-04-29 21:54:21, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:30427, ver:1.0.11, ip:172.16.100.150
+deviceno:B192, device:224532afe5ac, logintime:2018-06-08 03:34:19, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:44459, ver:1.0.11, ip:172.16.70.153
 
-deviceno:AQ8, device:22499c34f33d, logintime:2018-05-05 15:54:27, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:36120, ver:1.0.11, ip:172.16.100.115
+deviceno:C101, device:22303a689980, logintime:2018-06-08 01:25:44, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:40227, ver:1.0.11, ip:172.16.80.253
 
-deviceno:AQ9, device:32cc991e5556, logintime:2018-05-05 11:19:31, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:16245, ver:1.0.11, ip:172.16.100.54
+deviceno:C102, device:321ae45818dd, logintime:2018-06-08 01:26:58, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:12239, ver:1.0.11, ip:172.16.80.126
 
-deviceno:C101, device:22303a689980, logintime:2018-05-07 14:12:40, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:18079, ver:1.0.11, ip:172.16.80.242
+deviceno:C111, device:2246d25ec687, logintime:2018-06-08 01:25:35, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:19925, ver:1.0.11, ip:172.16.80.47
 
-deviceno:C102, device:321ae45818dd, logintime:2018-05-07 14:02:40, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:31472, ver:1.0.11, ip:172.16.80.163
+deviceno:C112, device:32bb8fd7be96, logintime:2018-06-08 04:31:47, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:48701, ver:1.0.11, ip:172.16.80.202
 
-deviceno:C111, device:2246d25ec687, logintime:2018-05-05 19:53:49, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:40809, ver:1.0.11, ip:172.16.80.110
+deviceno:C121, device:32b3707c6801, logintime:2018-06-08 05:06:29, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:30732, ver:1.0.11, ip:172.16.80.99
 
-deviceno:C112, device:32bb8fd7be96, logintime:2018-05-05 19:33:38, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:35712, ver:1.0.11, ip:172.16.80.150
+deviceno:C122, device:321faf5d7766, logintime:2018-06-07 17:47:38, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:23297, ver:1.0.11, ip:172.16.80.206
 
-deviceno:C121, device:32b3707c6801, logintime:2018-05-07 18:56:07, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:48401, ver:1.0.11, ip:172.16.80.206
+deviceno:C131, device:324cea5c600b, logintime:2018-06-07 17:12:05, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:27698, ver:1.0.11, ip:172.16.80.32
 
-deviceno:C122, device:321faf5d7766, logintime:2018-05-07 14:55:26, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:23622, ver:1.0.11, ip:172.16.80.219
+deviceno:C132, device:22dced594932, logintime:2018-06-08 01:25:23, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:38405, ver:1.0.11, ip:172.16.80.85
 
-deviceno:C131, device:324cea5c600b, logintime:2018-05-07 11:53:00, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:18706, ver:1.0.11, ip:172.16.80.235
+deviceno:C141, device:3277ae27ccc8, logintime:2018-06-08 04:16:35, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:27542, ver:1.0.11, ip:172.16.70.184
 
-deviceno:C132, device:22dced594932, logintime:2018-05-05 11:57:52, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:23597, ver:1.0.11, ip:172.16.80.210
+deviceno:C142, device:32816e2a2a57, logintime:2018-06-08 01:27:10, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:48345, ver:1.0.11, ip:172.16.70.228
 
-deviceno:C141, device:3277ae27ccc8, logintime:2018-05-05 18:40:07, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:24118, ver:1.0.11, ip:172.16.70.120
+deviceno:C151, device:326ca11704af, logintime:2018-06-08 01:27:12, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:10856, ver:1.0.11, ip:172.16.70.214
 
-deviceno:C142, device:32816e2a2a57, logintime:2018-05-05 11:01:56, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:15774, ver:1.0.11, ip:172.16.70.227
+deviceno:C152, device:223fac1c51be, logintime:2018-06-08 05:26:21, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:27435, ver:1.0.11, ip:172.16.70.95
 
-deviceno:C151, device:326ca11704af, logintime:2018-05-05 19:29:16, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:36514, ver:1.0.11, ip:172.16.70.82
+deviceno:C161, device:32b67e40017c, logintime:2018-06-08 04:23:51, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:42006, ver:1.0.11, ip:172.16.70.204
 
-deviceno:C152, device:223fac1c51be, logintime:2018-05-07 21:06:19, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:10854, ver:1.0.11, ip:172.16.70.32
+deviceno:C162, device:22800d50b089, logintime:2018-06-08 01:27:18, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:49058, ver:1.0.11, ip:172.16.70.52
 
-deviceno:C161, device:32b67e40017c, logintime:2018-05-07 11:41:31, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:48264, ver:1.0.11, ip:172.16.70.204
+deviceno:C171, device:22313cfc7397, logintime:2018-06-08 02:30:43, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:26698, ver:1.0.11, ip:172.16.70.245
 
-deviceno:C162, device:22800d50b089, logintime:2018-05-07 12:09:07, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:16033, ver:1.0.11, ip:172.16.70.140
+deviceno:C172, device:22be5337435e, logintime:2018-06-08 03:59:19, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:22383, ver:1.0.11, ip:172.16.70.129
 
-deviceno:C171, device:22313cfc7397, logintime:2018-05-06 21:31:43, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:48606, ver:1.0.11, ip:172.16.70.218
+deviceno:C181, device:22ca264e6a9b, logintime:2018-06-08 05:13:22, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:19624, ver:1.0.11, ip:172.16.70.218
 
-deviceno:C172, device:22be5337435e, logintime:2018-05-02 15:37:06, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:27851, ver:1.0.11, ip:172.16.70.156
+deviceno:C182, device:229cba85c01b, logintime:2018-06-08 04:26:38, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:30909, ver:1.0.11, ip:172.16.70.181
 
-deviceno:C181, device:22ca264e6a9b, logintime:2018-05-05 18:49:24, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:35883, ver:1.0.11, ip:172.16.70.158
+deviceno:C191, device:324f722f21ef, logintime:2018-06-08 01:27:26, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:48415, ver:1.0.11, ip:172.16.70.244
 
-deviceno:C182, device:229cba85c01b, logintime:2018-05-08 17:34:56, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:26908, ver:1.0.11, ip:172.16.70.41
+deviceno:C192, device:22f4828e897e, logintime:2018-06-08 01:27:27, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:11140, ver:1.0.11, ip:172.16.70.128
 
-deviceno:C191, device:324f722f21ef, logintime:2018-05-07 14:00:51, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:33788, ver:1.0.11, ip:172.16.70.52
+deviceno:C201, device:22600e50dd14, logintime:2018-06-08 01:27:28, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:11288, ver:1.0.11, ip:172.16.70.63
 
-deviceno:C192, device:22f4828e897e, logintime:2018-05-05 16:02:27, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:42541, ver:1.0.11, ip:172.16.70.178
+deviceno:C202, device:32121cff9c29, logintime:2018-06-08 05:01:53, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:12452, ver:1.0.11, ip:172.16.70.223
 
-deviceno:C201, device:22600e50dd14, logintime:2018-05-07 13:56:01, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:18895, ver:1.0.11, ip:172.16.70.212
+deviceno:C21, device:22bf096ef2e1, logintime:2018-06-08 04:50:50, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:12897, ver:1.0.11, ip:172.16.70.137
 
-deviceno:C202, device:32121cff9c29, logintime:2018-05-08 17:35:15, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:27846, ver:1.0.11, ip:172.16.70.97
+deviceno:C211, device:22f77a8ec721, logintime:2018-06-08 05:30:31, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:48623, ver:1.0.11, ip:172.16.70.123
 
-deviceno:C21, device:22bf096ef2e1, logintime:2018-05-09 17:40:42, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:28831, ver:1.0.11, ip:172.16.70.11
+deviceno:C212, device:22989c6e5eba, logintime:2018-06-08 04:38:05, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:24269, ver:1.0.11, ip:172.16.70.159
 
-deviceno:C211, device:22f77a8ec721, logintime:2018-05-06 10:28:04, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:26421, ver:1.0.11, ip:172.16.70.162
+deviceno:C22, device:22af6a4e0560, logintime:2018-06-08 04:50:21, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:44560, ver:1.0.11, ip:172.16.70.121
 
-deviceno:C212, device:22989c6e5eba, logintime:2018-05-07 13:56:11, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:19216, ver:1.0.11, ip:172.16.70.171
+deviceno:C222, device:22832cb63191, logintime:2018-06-08 01:27:37, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:12442, ver:1.0.11, ip:172.16.70.164
 
-deviceno:C22, device:22af6a4e0560, logintime:2018-05-07 13:56:10, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:40213, ver:1.0.11, ip:172.16.70.33
+deviceno:C231, device:22800f504597, logintime:2018-06-08 01:27:38, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:46878, ver:1.0.11, ip:172.16.70.142
 
-deviceno:C221, device:22c2fe7c6c07, logintime:2018-05-05 18:39:19, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:32879, ver:1.0.11, ip:172.16.70.191
+deviceno:C232, device:22bd7524f6bb, logintime:2018-06-08 04:49:25, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:18456, ver:1.0.11, ip:172.16.70.174
 
-deviceno:C222, device:22832cb63191, logintime:2018-05-07 14:00:29, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:34283, ver:1.0.11, ip:172.16.70.219
+deviceno:C241, device:22686a51b0a7, logintime:2018-06-08 04:06:03, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:24726, ver:1.0.11, ip:172.16.70.240
 
-deviceno:C231, device:22800f504597, logintime:2018-05-06 03:23:43, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:48286, ver:1.0.11, ip:172.16.70.184
+deviceno:C242, device:329f5ffdfe57, logintime:2018-06-08 02:19:40, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:31829, ver:1.0.11, ip:172.16.70.48
 
-deviceno:C232, device:22bd7524f6bb, logintime:2018-05-05 19:38:24, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:48702, ver:1.0.11, ip:172.16.70.126
+deviceno:C251, device:224abb8c8b25, logintime:2018-06-08 01:27:44, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:46131, ver:1.0.11, ip:172.16.70.21
 
-deviceno:C241, device:22686a51b0a7, logintime:2018-05-05 16:18:44, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:43986, ver:1.0.11, ip:172.16.70.50
+deviceno:C252, device:220894375a3e, logintime:2018-06-08 04:53:30, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:41046, ver:1.0.11, ip:172.16.70.73
 
-deviceno:C242, device:329f5ffdfe57, logintime:2018-05-08 17:31:48, hb:2018-05-09 22:50:36, remoteAddr:183.240.42.35:42183, ver:1.0.11, ip:172.16.70.221
+deviceno:C261, device:222f9147222a, logintime:2018-06-08 02:30:42, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:26820, ver:1.0.11, ip:172.16.70.224
 
-deviceno:C251, device:224abb8c8b25, logintime:2018-05-07 13:56:10, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:40208, ver:1.0.11, ip:172.16.70.153
+deviceno:C262, device:222c0565b826, logintime:2018-06-08 01:27:50, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:13890, ver:1.0.11, ip:172.16.70.103
 
-deviceno:C252, device:220894375a3e, logintime:2018-05-08 17:34:21, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:34309, ver:1.0.11, ip:172.16.70.211
+deviceno:C271, device:32744eefd7f8, logintime:2018-06-08 03:41:36, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:15394, ver:1.0.11, ip:172.16.70.211
 
-deviceno:C261, device:222f9147222a, logintime:2018-04-27 01:56:28, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:21385, ver:1.0.11, ip:172.16.70.98
+deviceno:C272, device:32dbab8fc978, logintime:2018-06-08 01:27:52, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:45246, ver:1.0.11, ip:172.16.70.242
 
-deviceno:C262, device:222c0565b826, logintime:2018-05-08 17:34:30, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:33842, ver:1.0.11, ip:172.16.70.65
+deviceno:C281, device:323021d89b39, logintime:2018-06-08 04:11:47, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:12046, ver:1.0.11, ip:172.16.70.141
 
-deviceno:C271, device:32744eefd7f8, logintime:2018-04-29 22:31:45, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:19537, ver:1.0.11, ip:172.16.70.185
+deviceno:C282, device:325bc0df90f7, logintime:2018-06-08 03:49:44, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:37699, ver:1.0.11, ip:172.16.70.236
 
-deviceno:C272, device:32dbab8fc978, logintime:2018-04-28 20:50:39, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:27005, ver:1.0.11, ip:172.16.70.152
+deviceno:C31, device:227fbfd8d266, logintime:2018-06-07 16:04:08, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:38096, ver:1.0.11, ip:172.16.80.159
 
-deviceno:C281, device:323021d89b39, logintime:2018-05-07 14:08:32, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:35723, ver:1.0.11, ip:172.16.70.2
+deviceno:C32, device:225f78932687, logintime:2018-06-07 17:14:41, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:23452, ver:1.0.11, ip:172.16.80.102
 
-deviceno:C282, device:325bc0df90f7, logintime:2018-05-09 06:03:13, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:29079, ver:1.0.11, ip:172.16.70.210
+deviceno:C41, device:321a81c90340, logintime:2018-06-08 01:56:40, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:48922, ver:1.0.11, ip:172.16.80.57
 
-deviceno:C31, device:227fbfd8d266, logintime:2018-05-08 17:52:15, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:17722, ver:1.0.11, ip:172.16.80.88
+deviceno:C42, device:327c605598b0, logintime:2018-06-08 03:08:54, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:29717, ver:1.0.11, ip:172.16.80.250
 
-deviceno:C32, device:225f78932687, logintime:2018-05-09 09:50:25, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:10783, ver:1.0.11, ip:172.16.80.155
+deviceno:C51, device:3296c92bf925, logintime:2018-06-07 16:09:39, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:37184, ver:1.0.11, ip:172.16.80.205
 
-deviceno:C41, device:321a81c90340, logintime:2018-05-07 16:31:34, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:48683, ver:1.0.11, ip:172.16.80.49
+deviceno:C52, device:220fd0b76524, logintime:2018-06-08 04:37:56, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:24894, ver:1.0.11, ip:172.16.80.101
 
-deviceno:C42, device:327c605598b0, logintime:2018-05-07 13:56:10, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:19203, ver:1.0.11, ip:172.16.80.35
+deviceno:C61, device:32314b456e81, logintime:2018-06-07 16:20:46, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:28937, ver:1.0.11, ip:172.16.80.38
 
-deviceno:C51, device:3296c92bf925, logintime:2018-05-05 15:20:03, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:39571, ver:1.0.11, ip:172.16.80.16
+deviceno:C62, device:32a9189033de, logintime:2018-06-08 05:02:37, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:15845, ver:1.0.11, ip:172.16.80.149
 
-deviceno:C52, device:220fd0b76524, logintime:2018-05-07 13:56:09, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:40222, ver:1.0.11, ip:172.16.80.7
+deviceno:C71, device:32364fc3f66f, logintime:2018-06-04 00:04:21, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:24280, ver:1.0.11, ip:172.16.80.214
 
-deviceno:C61, device:32314b456e81, logintime:2018-05-07 13:56:11, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:19221, ver:1.0.11, ip:172.16.80.178
+deviceno:C72, device:229da0782bdb, logintime:2018-06-08 04:08:22, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:25386, ver:1.0.11, ip:172.16.80.109
 
-deviceno:C62, device:32a9189033de, logintime:2018-05-07 13:56:11, hb:2018-05-09 22:50:36, remoteAddr:183.240.42.35:19225, ver:1.0.11, ip:172.16.80.75
+deviceno:C81, device:32c857458a9d, logintime:2018-06-07 17:16:23, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:41135, ver:1.0.11, ip:172.16.80.51
 
-deviceno:C71, device:32364fc3f66f, logintime:2018-05-08 04:15:33, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:47511, ver:1.0.11, ip:172.16.80.195
+deviceno:C82, device:221e50b4b987, logintime:2018-06-08 04:29:31, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:19396, ver:1.0.11, ip:172.16.80.240
 
-deviceno:C72, device:229da0782bdb, logintime:2018-05-05 15:03:37, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:38426, ver:1.0.11, ip:172.16.80.211
+deviceno:C91, device:32ea5c0b9a6d, logintime:2018-06-08 04:17:55, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:26568, ver:1.0.11, ip:172.16.80.148
 
-deviceno:C81, device:32c857458a9d, logintime:2018-05-05 19:31:38, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:29549, ver:1.0.11, ip:172.16.80.22
+deviceno:C92, device:22613c695c06, logintime:2018-06-04 00:04:22, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:35038, ver:1.0.11, ip:172.16.80.127
 
-deviceno:C82, device:221e50b4b987, logintime:2018-05-09 17:02:21, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:23945, ver:1.0.11, ip:172.16.80.168
+deviceno:D101, device:221b00782f73, logintime:2018-06-08 04:04:44, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:39879, ver:1.0.11, ip:172.16.30.184
 
-deviceno:C91, device:32ea5c0b9a6d, logintime:2018-05-07 14:02:03, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:32216, ver:1.0.11, ip:172.16.80.237
+deviceno:D102, device:22ae428a71c6, logintime:2018-06-08 04:00:28, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:41414, ver:1.0.11, ip:172.16.30.148
 
-deviceno:C92, device:22613c695c06, logintime:2018-04-24 03:19:45, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:36527, ver:1.0.11, ip:172.16.80.197
+deviceno:D111, device:224fff9ef608, logintime:2018-06-08 05:36:59, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:35637, ver:1.0.11, ip:172.16.30.88
 
-deviceno:D101, device:221b00782f73, logintime:2018-05-08 02:11:15, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:11365, ver:1.0.11, ip:172.16.30.25
+deviceno:D112, device:22884858d1c6, logintime:2018-06-07 18:32:26, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:12986, ver:1.0.11, ip:172.16.30.49
 
-deviceno:D102, device:22ae428a71c6, logintime:2018-05-09 07:20:42, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:28600, ver:1.0.11, ip:172.16.30.11
+deviceno:D121, device:32f1f27eb08a, logintime:2018-06-07 18:11:23, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:35692, ver:1.0.11, ip:172.16.30.95
 
-deviceno:D111, device:224fff9ef608, logintime:2018-05-05 18:00:26, hb:2018-05-09 22:50:36, remoteAddr:183.240.42.35:20755, ver:1.0.11, ip:172.16.30.192
+deviceno:D122, device:2289b1c3d4d9, logintime:2018-06-08 01:48:24, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:15430, ver:1.0.11, ip:172.16.30.89
 
-deviceno:D121, device:32f1f27eb08a, logintime:2018-05-05 20:23:32, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:32453, ver:1.0.11, ip:172.16.30.160
+deviceno:D131, device:2288e1078381, logintime:2018-06-08 10:54:42, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:11334, ver:1.0.10, ip:172.16.30.239
 
-deviceno:D122, device:2289b1c3d4d9, logintime:2018-05-05 17:40:15, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:23104, ver:1.0.11, ip:172.16.30.37
+deviceno:D141, device:2233972d00e5, logintime:2018-06-04 00:04:07, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:35851, ver:1.0.11, ip:172.16.30.14
 
-deviceno:D131, device:2288e1078381, logintime:2018-05-07 13:56:07, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:40310, ver:1.0.11, ip:172.16.30.108
+deviceno:D151, device:22d17a7d71aa, logintime:2018-06-07 18:03:18, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:36004, ver:1.0.11, ip:172.16.30.161
 
-deviceno:D151, device:22d17a7d71aa, logintime:2018-05-05 19:52:34, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:44625, ver:1.0.11, ip:172.16.30.159
+deviceno:D152, device:222e07a98189, logintime:2018-06-07 18:05:54, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:14910, ver:1.0.11, ip:172.16.30.91
 
-deviceno:D152, device:222e07a98189, logintime:2018-05-09 22:42:40, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:11196, ver:1.0.11, ip:172.16.30.29
+deviceno:D161, device:32b7ca7add67, logintime:2018-06-07 18:09:10, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:16429, ver:1.0.11, ip:172.16.30.221
 
-deviceno:D161, device:32b7ca7add67, logintime:2018-05-07 20:09:40, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:29117, ver:1.0.11, ip:172.16.30.213
+deviceno:D162, device:3288b85582b9, logintime:2018-06-08 03:56:32, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:33618, ver:1.0.11, ip:172.16.30.55
 
-deviceno:D162, device:3288b85582b9, logintime:2018-05-06 12:55:17, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:30741, ver:1.0.11, ip:172.16.30.221
+deviceno:D171, device:32794a258e98, logintime:2018-06-07 18:01:28, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:29617, ver:1.0.11, ip:172.16.30.80
 
-deviceno:D171, device:32794a258e98, logintime:2018-05-05 14:39:51, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:14884, ver:1.0.11, ip:172.16.30.199
+deviceno:D172, device:22157dc487f1, logintime:2018-06-07 18:02:10, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:27147, ver:1.0.11, ip:172.16.30.147
 
-deviceno:D172, device:22157dc487f1, logintime:2018-05-05 18:24:24, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:30776, ver:1.0.11, ip:172.16.30.133
+deviceno:D181, device:328c90002007, logintime:2018-06-08 00:25:34, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:32358, ver:1.0.11, ip:172.16.30.126
 
-deviceno:D181, device:328c90002007, logintime:2018-05-07 13:56:05, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:40355, ver:1.0.11, ip:172.16.30.30
+deviceno:D71, device:32c7b2dfbb4d, logintime:2018-06-08 01:52:00, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:29885, ver:1.0.11, ip:172.16.30.15
 
-deviceno:D71, device:32c7b2dfbb4d, logintime:2018-05-07 13:31:23, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:14756, ver:1.0.11, ip:172.16.30.38
+deviceno:D72, device:329a24e6974f, logintime:2018-06-08 02:13:52, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:16970, ver:1.0.11, ip:172.16.30.61
 
-deviceno:D72, device:329a24e6974f, logintime:2018-05-09 16:27:11, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:13235, ver:1.0.11, ip:172.16.30.74
+deviceno:D81, device:3276f541c8f4, logintime:2018-06-08 03:20:44, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:21079, ver:1.0.11, ip:172.16.30.133
 
-deviceno:D81, device:3276f541c8f4, logintime:2018-05-07 13:56:16, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:40069, ver:1.0.11, ip:172.16.30.236
+deviceno:D82, device:2219cb138e1e, logintime:2018-06-08 01:10:02, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:36006, ver:1.0.11, ip:172.16.30.121
 
-deviceno:D82, device:2219cb138e1e, logintime:2018-05-07 12:04:13, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:30391, ver:1.0.11, ip:172.16.30.82
+deviceno:D91, device:32d0a8b6b6e0, logintime:2018-06-08 02:00:59, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:30593, ver:1.0.11, ip:172.16.30.245
 
-deviceno:D91, device:32d0a8b6b6e0, logintime:2018-05-09 18:04:48, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:23473, ver:1.0.11, ip:172.16.30.32
+deviceno:D92, device:22d20258fc90, logintime:2018-06-08 01:17:34, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:10329, ver:1.0.11, ip:172.16.30.6
 
-deviceno:D92, device:22d20258fc90, logintime:2018-04-27 23:12:09, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:43761, ver:1.0.11, ip:172.16.30.71
+deviceno:F101, device:00d291309bd1, logintime:2018-06-08 04:35:35, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:34582, ver:1.0.11, ip:172.16.10.184
 
-deviceno:F101, device:00d291309bd1, logintime:2018-05-05 19:15:29, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:37711, ver:1.0.11, ip:172.16.10.138
+deviceno:F111, device:00d28a01d493, logintime:2018-06-04 00:04:16, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:24006, ver:1.0.11, ip:172.16.10.187
 
-deviceno:F111, device:00d28a01d493, logintime:2018-04-29 01:53:28, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:48115, ver:1.0.11, ip:172.16.10.137
+deviceno:F121, device:00d257e9090f, logintime:2018-06-04 00:04:08, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:35823, ver:1.0.11, ip:172.16.10.47
 
-deviceno:F121, device:00d257e9090f, logintime:2018-04-24 03:20:10, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:35777, ver:1.0.11, ip:172.16.10.36
+deviceno:F131, device:00d12a9db4cc, logintime:2018-06-07 22:03:39, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:47489, ver:1.0.11, ip:172.16.10.148
 
-deviceno:F131, device:00d12a9db4cc, logintime:2018-05-05 10:07:25, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:33526, ver:1.0.11, ip:172.16.10.195
+deviceno:F151, device:00d123c3400b, logintime:2018-06-08 02:41:38, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:21520, ver:1.0.11, ip:172.16.10.218
 
-deviceno:F151, device:00d123c3400b, logintime:2018-05-05 20:12:52, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:21303, ver:1.0.11, ip:172.16.10.154
+deviceno:F161, device:00d228d8d540, logintime:2018-06-08 02:13:07, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:19821, ver:1.0.11, ip:172.16.10.210
 
-deviceno:F161, device:00d228d8d540, logintime:2018-05-07 22:01:55, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:28964, ver:1.0.11, ip:172.16.10.120
+deviceno:F171, device:00d26823781a, logintime:2018-06-07 22:03:32, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:12171, ver:1.0.11, ip:172.16.10.13
 
-deviceno:F171, device:00d26823781a, logintime:2018-05-05 16:40:13, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:37885, ver:1.0.11, ip:172.16.10.206
+deviceno:F181, device:00d19a83aabc, logintime:2018-06-08 03:54:01, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:43521, ver:1.0.11, ip:172.16.10.93
 
-deviceno:F181, device:00d19a83aabc, logintime:2018-05-05 20:23:15, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:27901, ver:1.0.11, ip:172.16.10.166
+deviceno:F191, device:00d166a8cc19, logintime:2018-06-04 00:04:15, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:23941, ver:1.0.11, ip:172.16.10.85
 
-deviceno:F191, device:00d166a8cc19, logintime:2018-04-24 03:20:06, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:23454, ver:1.0.11, ip:172.16.10.31
+deviceno:F201, device:00d2bd061ca3, logintime:2018-06-08 02:28:12, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:22568, ver:1.0.11, ip:172.16.10.231
 
-deviceno:F201, device:00d2bd061ca3, logintime:2018-05-05 10:07:47, hb:2018-05-09 22:50:32, remoteAddr:183.240.42.35:34798, ver:1.0.11, ip:172.16.10.85
+deviceno:F21, device:22aa66a2975b, logintime:2018-06-07 22:02:59, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:13522, ver:1.0.11, ip:172.16.10.174
 
-deviceno:F21, device:22aa66a2975b, logintime:2018-05-05 10:08:27, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:36974, ver:1.0.11, ip:172.16.10.95
+deviceno:F211, device:00d12a708878, logintime:2018-06-07 22:02:38, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:14345, ver:1.0.11, ip:172.16.10.243
 
-deviceno:F211, device:00d12a708878, logintime:2018-05-06 18:23:04, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:30343, ver:1.0.11, ip:172.16.10.144
+deviceno:F221, device:00d2a2fabe28, logintime:2018-06-08 02:14:23, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:44519, ver:1.0.11, ip:172.16.10.220
 
-deviceno:F221, device:00d2a2fabe28, logintime:2018-05-05 10:08:09, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:23373, ver:1.0.11, ip:172.16.10.174
+deviceno:F231, device:00d2bdc4111a, logintime:2018-06-08 05:18:56, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:41813, ver:1.0.11, ip:172.16.20.123
 
-deviceno:F231, device:00d2bdc4111a, logintime:2018-05-05 20:17:37, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:13858, ver:1.0.11, ip:172.16.20.125
+deviceno:F232, device:00d13a32a21f, logintime:2018-06-04 00:07:58, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:25051, ver:1.0.11, ip:172.16.20.86
 
-deviceno:F241, device:00d26bf38b62, logintime:2018-05-07 14:02:02, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:32256, ver:1.0.11, ip:172.16.20.159
+deviceno:F241, device:00d26bf38b62, logintime:2018-06-05 05:10:06, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:20843, ver:1.0.11, ip:172.16.20.225
 
-deviceno:F242, device:00d18cb12eb3, logintime:2018-05-07 14:00:56, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:25711, ver:1.0.11, ip:172.16.20.244
+deviceno:F242, device:00d18cb12eb3, logintime:2018-06-04 00:07:54, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:34178, ver:1.0.11, ip:172.16.20.5
 
-deviceno:F251, device:00d12142185e, logintime:2018-05-07 14:01:37, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:26582, ver:1.0.11, ip:172.16.20.211
+deviceno:F251, device:00d12142185e, logintime:2018-06-04 14:40:21, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:10680, ver:1.0.11, ip:172.16.20.127
 
-deviceno:F252, device:00d139ac765e, logintime:2018-05-09 14:24:39, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:26633, ver:1.0.11, ip:172.16.20.206
+deviceno:F252, device:00d139ac765e, logintime:2018-06-05 19:43:25, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:27280, ver:1.0.11, ip:172.16.20.175
 
-deviceno:F261, device:00d2eeb7d4a1, logintime:2018-05-07 14:01:29, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:26353, ver:1.0.11, ip:172.16.20.208
+deviceno:F261, device:00d2eeb7d4a1, logintime:2018-06-08 05:46:06, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:30812, ver:1.0.11, ip:172.16.20.168
 
-deviceno:F262, device:00d16aba4fd6, logintime:2018-05-09 17:06:23, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:46581, ver:1.0.11, ip:172.16.20.176
+deviceno:F262, device:00d16aba4fd6, logintime:2018-06-08 11:10:17, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:37214, ver:1.0.11, ip:172.16.20.57
 
-deviceno:F271, device:00d24d6d4307, logintime:2018-05-09 09:36:00, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:16362, ver:1.0.11, ip:172.16.20.5
+deviceno:F271, device:00d24d6d4307, logintime:2018-06-06 01:07:14, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:24536, ver:1.0.11, ip:172.16.20.241
 
-deviceno:F272, device:00d20f14beb3, logintime:2018-05-08 14:04:11, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:25803, ver:1.0.11, ip:172.16.20.215
+deviceno:F272, device:00d20f14beb3, logintime:2018-06-07 18:32:09, hb:2018-06-08 11:11:43, remoteAddr:183.240.42.35:47355, ver:1.0.11, ip:172.16.20.158
 
-deviceno:F281, device:326bd905d29e, logintime:2018-05-05 12:03:18, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:23254, ver:1.0.11, ip:172.16.20.192
+deviceno:F281, device:326bd905d29e, logintime:2018-06-04 00:04:46, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:25423, ver:1.0.11, ip:172.16.20.238
 
-deviceno:F282, device:00d2d731e867, logintime:2018-05-09 15:02:13, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:11643, ver:1.0.11, ip:172.16.20.9
+deviceno:F282, device:00d2d731e867, logintime:2018-06-04 14:40:13, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:48384, ver:1.0.11, ip:172.16.20.124
 
-deviceno:F31, device:00d10e26996f, logintime:2018-05-05 11:52:47, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:47488, ver:1.0.11, ip:172.16.10.118
+deviceno:F31, device:00d10e26996f, logintime:2018-06-08 05:29:04, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:16333, ver:1.0.11, ip:172.16.10.135
 
-deviceno:F41, device:00d14b3fa04b, logintime:2018-05-07 01:45:32, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:30725, ver:1.0.11, ip:172.16.10.70
+deviceno:F41, device:00d14b3fa04b, logintime:2018-06-07 22:02:13, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:15280, ver:1.0.11, ip:172.16.10.112
 
-deviceno:F51, device:3284d1114389, logintime:2018-05-05 10:08:29, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:22264, ver:1.0.11, ip:172.16.10.101
+deviceno:F51, device:3284d1114389, logintime:2018-06-07 22:02:11, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:44018, ver:1.0.11, ip:172.16.10.194
 
-deviceno:F61, device:00d1da16ecaf, logintime:2018-05-05 10:08:33, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:37338, ver:1.0.11, ip:172.16.10.103
+deviceno:F61, device:00d1da16ecaf, logintime:2018-06-07 22:02:06, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:15578, ver:1.0.11, ip:172.16.10.216
 
-deviceno:F71, device:00d285973806, logintime:2018-05-05 13:28:06, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:39766, ver:1.0.11, ip:172.16.10.178
+deviceno:F81, device:32832bd14dbe, logintime:2018-06-08 03:28:27, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:30064, ver:1.0.11, ip:172.16.10.197
 
-deviceno:F81, device:32832bd14dbe, logintime:2018-05-07 11:41:28, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:48368, ver:1.0.11, ip:172.16.10.181
+deviceno:F91, device:00d189ab00dd, logintime:2018-06-07 22:01:57, hb:2018-06-08 11:11:38, remoteAddr:183.240.42.35:16018, ver:1.0.11, ip:172.16.10.222
 
-deviceno:F91, device:00d189ab00dd, logintime:2018-05-05 15:06:56, hb:2018-05-09 22:50:36, remoteAddr:183.240.42.35:28482, ver:1.0.11, ip:172.16.10.136
+deviceno:G261, device:32d4ca068cb6, logintime:2018-06-04 00:04:14, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:23877, ver:1.0.11, ip:172.16.40.207
 
-deviceno:G261, device:32d4ca068cb6, logintime:2018-05-05 17:27:03, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:32679, ver:1.0.11, ip:172.16.40.198
+deviceno:G272, device:22fa1dd231fe, logintime:2018-06-08 01:53:04, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:25757, ver:1.0.11, ip:172.16.40.178
 
-deviceno:G271, device:222c9f405391, logintime:2018-05-05 10:17:40, hb:2018-05-09 22:50:30, remoteAddr:183.240.42.35:30143, ver:1.0.11, ip:172.16.40.131
+deviceno:H1, device:223977169873, logintime:2018-06-07 20:11:48, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:27049, ver:1.0.11, ip:172.16.90.151
 
-deviceno:G272, device:22fa1dd231fe, logintime:2018-05-07 13:56:09, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:19163, ver:1.0.11, ip:172.16.40.181
+deviceno:H10, device:22aaf38dbe33, logintime:2018-06-08 02:33:19, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:43117, ver:1.0.11, ip:172.16.90.250
 
-deviceno:G281, device:222600a582dc, logintime:2018-05-05 14:32:30, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:27954, ver:1.0.11, ip:172.16.40.197
+deviceno:H11, device:326a926349d5, logintime:2018-06-08 05:31:17, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:12752, ver:1.0.11, ip:172.16.90.165
 
-deviceno:H1, device:223977169873, logintime:2018-05-09 19:05:54, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:48262, ver:1.0.11, ip:172.16.90.253
+deviceno:H12, device:22e7cb77a526, logintime:2018-06-07 20:35:04, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:48106, ver:1.0.11, ip:172.16.90.101
 
-deviceno:H10, device:22aaf38dbe33, logintime:2018-05-05 10:30:59, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:41654, ver:1.0.11, ip:172.16.90.101
+deviceno:H13, device:22f5ea67a11a, logintime:2018-06-07 20:22:49, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:34306, ver:1.0.11, ip:172.16.90.46
 
-deviceno:H11, device:326a926349d5, logintime:2018-05-07 14:04:01, hb:2018-05-09 22:50:36, remoteAddr:183.240.42.35:29558, ver:1.0.11, ip:172.16.90.145
+deviceno:H14, device:325af89a6a47, logintime:2018-06-04 00:04:13, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:35573, ver:1.0.11, ip:172.16.90.249
 
-deviceno:H12, device:22e7cb77a526, logintime:2018-05-05 18:47:41, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:18508, ver:1.0.11, ip:172.16.90.254
+deviceno:H15, device:3213f4cbd966, logintime:2018-06-04 00:04:18, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:24126, ver:1.0.11, ip:172.16.90.79
 
-deviceno:H13, device:22f5ea67a11a, logintime:2018-05-08 09:45:01, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:30540, ver:1.0.11, ip:172.16.90.219
+deviceno:H16, device:22973eb46cd3, logintime:2018-06-04 00:04:23, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:24411, ver:1.0.11, ip:172.16.90.231
 
-deviceno:H14, device:325af89a6a47, logintime:2018-05-05 15:57:17, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:29763, ver:1.0.11, ip:172.16.90.215
+deviceno:H17, device:32613b01fb89, logintime:2018-06-08 01:32:03, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:28301, ver:1.0.11, ip:172.16.90.186
 
-deviceno:H15, device:3213f4cbd966, logintime:2018-05-09 12:48:31, hb:2018-05-09 22:50:34, remoteAddr:183.240.42.35:22710, ver:1.0.11, ip:172.16.90.31
+deviceno:H19, device:324c2e1c72f6, logintime:2018-06-08 03:56:24, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:34220, ver:1.0.11, ip:172.16.90.216
 
-deviceno:H16, device:22973eb46cd3, logintime:2018-05-07 13:56:10, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:40207, ver:1.0.11, ip:172.16.90.16
+deviceno:H2, device:223db4ba8c1b, logintime:2018-06-04 00:04:23, hb:2018-06-08 11:11:46, remoteAddr:183.240.42.35:35011, ver:1.0.11, ip:172.16.90.136
 
-deviceno:H17, device:32613b01fb89, logintime:2018-05-05 19:34:51, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:20005, ver:1.0.11, ip:172.16.90.147
+deviceno:H20, device:22077dff9a21, logintime:2018-06-07 18:24:14, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:25683, ver:1.0.11, ip:172.16.90.224
 
-deviceno:H19, device:324c2e1c72f6, logintime:2018-05-05 16:53:13, hb:2018-05-09 22:50:27, remoteAddr:183.240.42.35:43748, ver:1.0.11, ip:172.16.90.65
+deviceno:H21, device:2223fc61e37b, logintime:2018-06-04 00:04:18, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:35259, ver:1.0.11, ip:172.16.90.17
 
-deviceno:H2, device:223db4ba8c1b, logintime:2018-05-07 22:43:43, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:11264, ver:1.0.11, ip:172.16.90.209
+deviceno:H22, device:3285f8dc1926, logintime:2018-06-07 20:44:23, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:14713, ver:1.0.11, ip:172.16.90.152
 
-deviceno:H20, device:22077dff9a21, logintime:2018-05-07 13:15:29, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:22706, ver:1.0.11, ip:172.16.90.242
+deviceno:H4, device:228d4f0feba9, logintime:2018-06-08 02:43:02, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:15992, ver:1.0.11, ip:172.16.90.25
 
-deviceno:H21, device:2223fc61e37b, logintime:2018-05-05 18:25:51, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:32910, ver:1.0.11, ip:172.16.90.77
+deviceno:H5, device:2219aab69ac4, logintime:2018-06-08 04:49:56, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:42961, ver:1.0.11, ip:172.16.90.209
 
-deviceno:H22, device:3285f8dc1926, logintime:2018-05-05 16:18:57, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:14923, ver:1.0.11, ip:172.16.90.251
+deviceno:H6, device:32bdbc1302a6, logintime:2018-06-06 19:16:32, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:42705, ver:1.0.11, ip:172.16.90.43
 
-deviceno:H5, device:2219aab69ac4, logintime:2018-05-08 12:41:19, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:30645, ver:1.0.11, ip:172.16.90.170
+deviceno:H7, device:2226eca4e9ff, logintime:2018-06-07 20:41:45, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:24112, ver:1.0.11, ip:172.16.90.167
 
-deviceno:H6, device:32bdbc1302a6, logintime:2018-05-07 14:03:21, hb:2018-05-09 22:50:26, remoteAddr:183.240.42.35:30456, ver:1.0.11, ip:172.16.90.187
+deviceno:H8, device:32c832314ed8, logintime:2018-06-07 21:38:04, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:11357, ver:1.0.11, ip:172.16.90.39
 
-deviceno:H7, device:2226eca4e9ff, logintime:2018-05-06 13:46:56, hb:2018-05-09 22:50:33, remoteAddr:183.240.42.35:48485, ver:1.0.11, ip:172.16.90.163
+deviceno:H9, device:323459393860, logintime:2018-06-04 00:04:23, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:34971, ver:1.0.11, ip:172.16.90.218
 
-deviceno:H8, device:32c832314ed8, logintime:2018-05-05 19:54:43, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:21310, ver:1.0.11, ip:172.16.90.172
+deviceno:J19, device:22ae73b4b4d3, logintime:2018-06-07 22:04:48, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:11321, ver:1.0.11, ip:172.16.20.188
 
-deviceno:H9, device:323459393860, logintime:2018-05-05 14:56:22, hb:2018-05-09 22:50:29, remoteAddr:183.240.42.35:43298, ver:1.0.11, ip:172.16.90.143
+deviceno:J20, device:32d74f0ad079, logintime:2018-06-08 02:11:19, hb:2018-06-08 11:11:42, remoteAddr:183.240.42.35:32101, ver:1.0.11, ip:172.16.20.216
 
-deviceno:PL1, device:22280bac2b41, logintime:2018-05-03 21:29:16, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:39836, ver:1.0.11, ip:172.16.30.87
+deviceno:J21, device:32de1ecb3945, logintime:2018-06-08 02:07:42, hb:2018-06-08 11:11:44, remoteAddr:183.240.42.35:17652, ver:1.0.11, ip:172.16.20.137
 
-deviceno:PL25, device:2233972d00e5, logintime:2018-05-05 10:21:54, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:13279, ver:1.0.11, ip:172.16.30.204
+deviceno:J22, device:32be6dba7569, logintime:2018-06-04 00:04:18, hb:2018-06-08 11:11:45, remoteAddr:183.240.42.35:24084, ver:1.0.11, ip:172.16.20.8
 
-deviceno:PL43, device:22fa1113bc03, logintime:2018-04-24 03:20:13, hb:2018-05-09 22:50:28, remoteAddr:183.240.42.35:23735, ver:1.0.11, ip:172.16.100.185
+deviceno:J23, device:32c748420543, logintime:2018-06-08 11:07:21, hb:2018-06-08 11:11:41, remoteAddr:183.240.42.35:33382, ver:1.0.11, ip:172.16.20.184
 
-deviceno:PL6, device:22884858d1c6, logintime:2018-05-08 20:46:13, hb:2018-05-09 22:50:35, remoteAddr:183.240.42.35:23830, ver:1.0.11, ip:172.16.30.186
+deviceno:J24, device:3286bcc35e9c, logintime:2018-06-08 02:25:33, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:11135, ver:1.0.11, ip:172.16.20.73
 
-deviceno:PL8, device:22fea1ebeaaa, logintime:2018-05-07 13:56:07, hb:2018-05-09 22:50:31, remoteAddr:183.240.42.35:40301, ver:1.0.11, ip:172.16.30.22
+deviceno:J25, device:32aab088d237, logintime:2018-06-04 00:04:20, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:35151, ver:1.0.11, ip:172.16.20.205
+
+deviceno:J26, device:32040d57a0a1, logintime:2018-06-04 00:04:09, hb:2018-06-08 11:11:39, remoteAddr:183.240.42.35:35771, ver:1.0.11, ip:172.16.20.252
+
+deviceno:J27, device:228c48b276c2, logintime:2018-06-04 00:04:21, hb:2018-06-08 11:11:48, remoteAddr:183.240.42.35:24265, ver:1.0.11, ip:172.16.20.110
+
+deviceno:J28, device:32fb915cc9e8, logintime:2018-06-08 03:30:29, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:38502, ver:1.0.11, ip:172.16.20.206
+
+deviceno:J29, device:228a24ca1a19, logintime:2018-06-04 00:04:19, hb:2018-06-08 11:11:40, remoteAddr:183.240.42.35:24159, ver:1.0.11, ip:172.16.20.38
+
+deviceno:J30, device:221ad1971da2, logintime:2018-06-08 05:11:07, hb:2018-06-08 11:11:47, remoteAddr:183.240.42.35:10363, ver:1.0.11, ip:172.16.20.131
+

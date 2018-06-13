@@ -18,9 +18,9 @@ import java.io.OutputStreamWriter;
 
 public class BatUtil {
 
-    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\tuiliu.txt";
+    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\BAT\\app\\bat_ip.txt";
     //    public static String desFile = "C:\\Users\\liaoli\\Desktop\\upgrade.txt";
-    private static String path = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\xinhui";
+    private static String path = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\reboot";
 
     public static void main(String[] args) {
 
@@ -82,8 +82,10 @@ public class BatUtil {
         }
         FileOutputStream fileOutputStream = new FileOutputStream(file);
         BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(fileOutputStream));
-        // String data = "ECHO\nadb connect "+ ip +"\nadb reboot"; //重启
-        String data = "ECHO\nadb connect " + ip + "\nadb install -r wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk" + "\nadb shell am start -n com.xinhui.upgradeapp/com.xinhui.upgradeapp.MainActivity" + "\nadb disconnect";
+         String data = "ECHO "+ deviceno +"\nadb connect "+ ip +"\nadb reboot"; //重启
+        //String data = "ECHO\nadb connect "+ ip +"\nadb shell rm -r  /mnt/sdcard/Android/data  \nadb reboot"; //清数据
+        //String data = "ECHO "+ deviceno +"\nadb connect "+ ip +"\nadb shell rm -r /data/system/dropbox"; //清理系统缓存
+       // String data = "ECHO\nadb connect " + ip + "\nadb install -r wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk" + "\nadb shell am start -n com.xinhui.upgradeapp/com.xinhui.upgradeapp.MainActivity" + "\nadb disconnect";
         bufferedWriter.write(data);
         bufferedWriter.close();
 

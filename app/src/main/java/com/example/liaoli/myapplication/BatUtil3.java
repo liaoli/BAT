@@ -17,9 +17,9 @@ import java.io.OutputStreamWriter;
 
 public class BatUtil3 {
 
-    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\20180420\\BAT\\app\\bat_ip.txt";
+    public static String desFile = "E:\\xinhui\\workSpace\\wawajiapp\\BAT\\app\\bat_ip.txt";
 //    public static String desFile = "C:\\Users\\liaoli\\Desktop\\upgrade.txt";
-    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\yuancheng\\" ;
+    private static String path ="E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\yuancheng\\reboot\\aq" ;
     private static String filePath = "E:\\xinhui\\workSpace\\wawajiserver\\tools\\bat\\wawaji\\curl.bat" ;
 
     public static void main(String[] args){
@@ -48,7 +48,7 @@ public class BatUtil3 {
                     if(s.contains("device")){
                         String[] sss = s.split(":");
                         String device = sss[1];
-                        String  curl = "curl \"https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=1&channel=0&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.12_201804261040.apk\"";
+                        String  curl = "curl \"https://ali1-ctl.xinhuifun.cn/device/ctrl?serial=" + device +"&cmd_type=3&channel=1&data=http://xinhui-st-tx.boomegg.cn/apk/wawaji_tuiliu/wawaji_previewXuebao_release_v1.2.0.13_201805031614.apk\"";
                         CreateBatFile(deviceno,curl);
                         break;
                     }
